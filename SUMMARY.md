@@ -1,7 +1,7 @@
 # Summary
 
 * [First Chapter](chapter1.md)
-* 序
+* [序](foreword.md)
 * 前言
 * 感谢
 * 简介
