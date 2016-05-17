@@ -1,7 +1,6 @@
 # Summary
 
 * [简介](README.md)
-* 撒地方
 * [序](foreword.md)
 * 前言
 * 感谢
