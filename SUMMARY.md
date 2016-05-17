@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [序](foreword.md)
 * 前言
 * 感谢
