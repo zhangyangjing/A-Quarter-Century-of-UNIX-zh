@@ -1,5 +1,5 @@
 # A Quarter Century of UNIX
 
-![cover](cover.jpng)
+![cover](book_cover.jpg)
 
 
