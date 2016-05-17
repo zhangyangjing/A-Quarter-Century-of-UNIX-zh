@@ -1,6 +1,7 @@
 # Summary
 
 * [简介](README.md)
+* 撒地方
 * [序](foreword.md)
 * 前言
 * 感谢
@@ -20,5 +21,4 @@
 * 什么造就了Unix?
    * 用户
    * 为什么是Unix
-* 撒地方
 
