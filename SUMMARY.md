@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [序](foreword.md)
+* [总序](foreword.md)
 * 前言
 * 感谢
 * 简介
