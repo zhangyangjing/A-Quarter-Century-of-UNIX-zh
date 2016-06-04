@@ -8,7 +8,7 @@
 * 天才
    * [太空序曲](Prelude_to_Space.md)
    * [1969年夏天到1970年秋天](Summer_1969-Fall_1970.md)
-   * 计算和可计算
+   * [计算和可计算](Calculating_and_Computing.md)
    * 操作系统
    * MAC项目：CTSS和Multics
 * 一个系统的诞生
