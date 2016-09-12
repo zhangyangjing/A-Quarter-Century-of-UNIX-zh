@@ -5,7 +5,7 @@
 * [前言](前言.md)
 * [感谢](感谢.md)
 * [简介](简介.md)
-* [天才](天才.md)
+* [起源](Genesis.md)
     * [太空序曲](Prelude_to_Space.md)
     * [1969年夏天到1970年秋天](Summer_1969-Fall_1970.md)
     * [机械计算和电子计算](Calculating_and_Computing.md)
