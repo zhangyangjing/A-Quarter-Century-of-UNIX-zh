@@ -3,6 +3,6 @@
 
 
 
-![cover](book_cover.jpg)
+![cover](/assets/cover.jpg)
 
 
