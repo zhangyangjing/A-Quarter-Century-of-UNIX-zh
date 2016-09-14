@@ -35,10 +35,10 @@ Hollerith的几个发明在业界一直延续了近80年。首先，他剪去了
 第一次世界大战使CTR公司商业获得很大增长。1919年Watson的技术投资提前5年收回成本：CTR成功的推出了一台打印制表机，它可以打印出从Hollerith的制表机和分类器获取到的信息。1924年，CTR更名为国际商用机器公司(IBM)。Thomas J. Watson也成为IBM的CEO和COO。
 
 1928年推出了TYPE IV型号制表机和新的80列12行卡片。
+.test
 
 
-
-http://songshuhui.net/archives/53536
+http://songshuhui.net/archives/53537
 http://wenku.baidu.com/view/227b730203d8ce2f006623f7.html
 http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（三，打孔卡片）/
 http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（二，机械计算器）/
