@@ -41,7 +41,8 @@ Hollerith的几个发明在业界一直延续了近80年。首先，他剪去了
 尽管Watson在1945年说“我认为整个世界需要有五台计算机”，第一台也是他资助下建立的。来自哈佛的Howard Aiken和一个小团队在1939年开始依照Babbage的理念组建一台名为Harvard Mark I的机器，并在1944年完成。它包含有一个51英寸宽8英寸高的面板，上面有有纸带阅读器，继电器，和旋钮。这台计算器由一个4马力的马达驱动，几乎全部操作都是通过物理开关进行。它可以在23个人的操作下进行10进制的数值计算，每一个基础计算需要耗时0.3秒。这台机器移植福一道1953年。
 
 
-http://songshuhui.net/archives/53537
-http://wenku.baidu.com/view/227b730203d8ce2f006623f7.html
-http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（三，打孔卡片）/
-http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（二，机械计算器）/
+** 翻译参考 **
+* http://songshuhui.net/archives/53537
+* http://wenku.baidu.com/view/227b730203d8ce2f006623f7.html
+* http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（三，打孔卡片）/
+* http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（二，机械计算器）/
