@@ -52,12 +52,14 @@ ENIAC也在英国发展起来。1946年Maurice V. Wilkes从普林斯顿反回到
 
 在这段时间里，IBM开始研制选择性序列电子计算机(SSEC)。EDSAC被称为首个电子计算机，而SSEC则被称之为首个计算机。它利用一个存储程序集成了计算功能。1948年早期在曼哈顿IBM的总部投入使用时，它被聪明的安放到街边一块大玻璃后面的房子里，这样走过的路人们都可以看到它是怎么运转的。这是一个由13000个电子管和23000个继电器组成的巨大机器，由于所有的算术计算都是由电子管完成，他的速度是MARK ID的100多倍。它包含三个不同的存储器：一个高速电子管存储，一个继电器组成的大容量存储，还有一个容量更大的8列纸带存储。指令和数据输入时通过打孔纸带，因为有66个并排的打孔纸带，所以控制可以自动一个接一个不间断的传送。“它可能是第一台拥有Babbage和Ada Lady Lovelace所提出的条件转移控制指令的机器”，1953年B.W.Bowden写道。它移植工作到1952年被拆除，特别是其间曾为直为美国原子能委员会工作。
 
+那个六月，John von Neumann和他的同事在普林斯顿狂热的研究者一项超前的技术，他们受雇于F.C. Williams和T. Kilburn，希望可以使用阴极射线管替换电子管存储器。
+
 
 
 
 **翻译参考**
 * http://songshuhui.net/archives/53537
 * http://wenku.baidu.com/view/227b730203d8ce2f006623f7.html
+* http://ftp.coscoqmc.com.cn:8081/nclass/jsjcourse/kwshiqu/boke.htm
 * http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（三，打孔卡片）/
 * http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（二，机械计算器）/
-* http://ftp.coscoqmc.com.cn:8081/nclass/jsjcourse/kwshiqu/boke.htm
