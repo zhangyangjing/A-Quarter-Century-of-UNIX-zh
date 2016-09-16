@@ -44,6 +44,8 @@ Hollerith的几个发明在业界一直延续了近80年。首先，他剪去了
 
 第一台全电子的计算机是电子积分数值积分计算机(ENIAC)，由宾夕法尼亚大学的J.W.Mauchly和J.P.Eckert于1945年着手建造，1946年在亚伯丁弹道研究实验室(BRL)提供的场地组装完成。我认为它是世界上最大的计算机，由18000个电子管(真空管)和1500个继电器组成。ENIAC是电子版本的Mark I,速度是Mark I的几百倍。Mike Muuss告诉我ENIAC的一部分在BRL展示。
 
+1947年Eckert和Mauchly建立他们自己的计算机公司开始建造他们的通用自动计算机(UNIVAC)。他们用光了资金后又找到美国赛马赌金公司为其投资的50万美金(这应该是历史上首次计算机和娱乐相关联的事件，赌金公司需要更快的赔率计算机器，他们认为电子计算机处理这些信息会更有效率)。赌金公司掌控了Eckert-Mauchly公司，但是资金在造出机器前又花光了，Mum兄弟(赌金公司的所有者)将Eckert-Mauchly公司出售给了雷明顿兰德公司。最终UNIVAC机器在一年后的1951年完成并得到了6台订单。
+
 
 
 
@@ -52,3 +54,4 @@ Hollerith的几个发明在业界一直延续了近80年。首先，他剪去了
 * http://wenku.baidu.com/view/227b730203d8ce2f006623f7.html
 * http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（三，打孔卡片）/
 * http://www.flickering.cn/八卦天地/2015/02/计算机前世篇（二，机械计算器）/
+* http://ftp.coscoqmc.com.cn:8081/nclass/jsjcourse/kwshiqu/boke.htm
