@@ -75,8 +75,6 @@ PDP-7，PDP-9和PDP-15都是和PDP-4一样的18位计算机。PDP-8是另一台�
 Gordon Bell的创造和DEC冒险做低价计算机是UNIX得以开发和成功的关键。PDP-11第一次证明了大学和科研站点可以支付部门规模的计算机。此外，Ritchie和Thompson也没有足够的资金购买一台大型计算机，PDP-11 10800美金的起始售价却在贝尔实验室的预算之内。PDP-11 16位的字长也很重要，16位相比于8位可以存储更多的信息。
 
 
-
-
 **翻译参考**
 * http://songshuhui.net/archives/53537
 * http://wenku.baidu.com/view/227b730203d8ce2f006623f7.html

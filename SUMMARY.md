@@ -1,7 +1,6 @@
 # Summary
 
 * [简介](README.md)
-* [序言](Series_Foreword.md)
 * [前言](Preface.md)
 * [感谢](Acknowledgements.md)
 * [简介](Introduction.md)

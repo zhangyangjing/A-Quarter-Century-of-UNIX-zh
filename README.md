@@ -17,4 +17,6 @@ UNIX是一个简洁，优雅，可移植，以及能力非常强大的软件系�
 > Peter H.Salus是一位获得广泛认可的UNIX爱好者，是季刊《计算机系统》的主编。他定期为USENIX的杂志《:login:》撰写专栏&lt;&lt;书虫&gt;&gt;。他也是一系列图书，文章以及访谈的作者。Salus拥有化学专业学位，德语学位，以及纽约大学的一个语言学博士学位。
 
 
-**在线阅读：http://unix25.zhangyangjing.com**
+**译者注**
+本书由Addison-Wesley出版社于1994年出版
+在线阅读：http://unix25.zhangyangjing.com
