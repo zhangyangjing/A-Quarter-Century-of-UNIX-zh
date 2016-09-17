@@ -1,6 +1,6 @@
 # Summary
 
-* [翻译](README.md)
+* [封面](README.md)
 * [前言](0-Mix/Preface.md)
 * [感谢](0-Mix/Acknowledgements.md)
 * [简介](0-Mix/Introduction.md)
