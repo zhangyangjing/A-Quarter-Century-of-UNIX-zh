@@ -1,9 +1,9 @@
 # Summary
 
 * [简介](README.md)
-* [前言](Preface.md)
-* [感谢](Acknowledgements.md)
-* [简介](Introduction.md)
+* [前言](0-Mix/Preface.md)
+* [感谢](0-Mix/Acknowledgements.md)
+* [简介](0-Mix/Introduction.md)
 * 起源
     * [太空序曲](1-Genesis/Prelude_to_Space.md)
     * [1969年夏天到1970年秋天](1-Genesis/Summer_1969-Fall_1970.md)
