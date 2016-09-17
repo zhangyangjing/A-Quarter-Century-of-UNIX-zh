@@ -8,4 +8,4 @@
 
 最后，我要感谢Mary W. Salus和Emily W. Salus，他们是我最严厉的批评家(这是最贵重的)。这些工作献给Rosa Lustig Kubin，他在50年前带我走进科学。
 
-   P.H.S， 波士顿
+P.H.S， 波士顿
