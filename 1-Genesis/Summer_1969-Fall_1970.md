@@ -21,7 +21,7 @@ Sandy Fraser在1969年五月来到贝尔实验室。他离开Ferranti是因为�
 Bob Morris于1960年加入 贝尔实验室，他说他觉得Canaday对于UNIX的贡献是早期参与者中最被低估的。“最早是Ken，Dennis以及Rudd”，他说，“其他人一两年或三年后后加入进来，我是第三年，但并没有被列入”。Steve Bourne在1970年加入贝尔实验室，他说的有点正式：
 
 > 那时只有一台带有340显示器的PDP-7可以用，PDP-7只提供了汇编器和加载器。环境非常简陋，同一时间只能有一个用户使用这台计算机，每个用户的使用时间都很宝贵。然而一个单用户的UNIX系统不久就要来临了。星际旅行程序针对PDP-7上重写，一个汇编器和一个初步的操作系统内核正在被创建，并且在GECOS（General Electric Comprehensive Operating System）上针对PDP-7跨平台汇编...
-> 
+>
 > 跨平台汇编的意思是使用两台计算机，每当做出新的变化就把纸带从一个机器放到另一个上...。这个系统支持两个用户同时工作，名字UNICS是一个叫Peter Neumann的喜欢说双关语的家伙在1970年创造的，意思是“UNiplexed Infomation and Computing Service”，和"阉割的Multics"双关。有些人告诉我是Brian Kernighan改变了拼写方式，但Kernighan却告诉我记不起来改成UNIX是谁的主意。
 
 PDP-7属于Joe Condon的组。它被“因为一些图形问题借给了Bill Ninke”。Condon回忆道：“Ninke离开去了Holmdel（贝尔实验室的另一个站点）” 。所以当Thompson和Ritchie想使用它的时候它正好是空闲着的。
