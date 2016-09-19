@@ -52,7 +52,16 @@ Tom Van Vleck说：
 
 直到1993年仍有Multics机器在运行，它们是稀有物种。Van Vleck像我提供了下面的清单，标记型号的是未能确认的站点：
 
-> 
+> ACTC (加拿大 亚伯达 卡尔加里)
+Air Force Data Service (华盛顿哥伦比亚特区) *
+Bull System-M (亚利桑那州凤凰城)
+Credit Lyonnais (发过巴黎)
+Department of National Defence (加拿大 新斯科舍省 哈里法克斯)
+Ford Motor Company (密歇根州 迪尔伯恩)
+General Motors(密歇根州 沃伦)
+Ministerie van Sociale Zaken en Werkgelegenheid (荷兰 海牙) *
+National Security Agency (马里兰州 林西克姆)
+Societe Europeenne de Propulsion (法国 弗农)
 
 
 
