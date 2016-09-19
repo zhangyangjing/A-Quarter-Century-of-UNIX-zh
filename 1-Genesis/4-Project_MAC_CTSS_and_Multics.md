@@ -43,3 +43,17 @@ MIT，贝尔实验室和通用电气一致同意合作。分别来自三个公�
 > McClur将TMG的汇编代码从CDC 1600翻译为7090的编码格式，我在千里之外帮他调试。Clem Pease随后又通过将IBM指令定义为635宏将将它移植到GE 635。
 
 编译器将编译结果送入EPLBSA(EPL引导汇编器)。编译过程非常缓慢。
+
+等待PL/I编译器最终可用的时候，团队编写了Multics系统编程人员手册。它一共有3000页，每一节都经过几轮修订，还有几节重写或者大改了几次。
+
+Tom Van Vleck说：
+
+> 在68年到69年系统已经延期并且资金紧张有被取消的风险。或许这恰好鼓舞了团队精神(相比于表面的士气)。1968年ARPA(the Advanced  Research Proect Agency of the Department of Defense)的一次审查是我们最接近被取消的时候，不过他们建议我们继续下去。但为时已晚，贝尔实验室在1969年四月正式退出。
+
+
+
+
+
+===
+**译者注**
+[Multics System Programmers' Manual](http://multicians.org/mspmtoc.html)
