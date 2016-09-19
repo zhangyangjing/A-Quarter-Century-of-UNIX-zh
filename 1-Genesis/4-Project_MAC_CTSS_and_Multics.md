@@ -63,7 +63,14 @@ Tom Van Vleck说：
 * National Security Agency (马里兰州 林西克姆)
 * Societe Europeenne de Propulsion (法国 弗农)
 
+Multics的重要性在于它持久的影响力。霍尼韦尔公司(Honeywell)买下了通用电气的计算机业务，但是它的GCOS 6操作系统，Prime的Primos，Stratus的VOS，还有Apollo的Domain，以及BBN创建的TENEX，TOP-20，都深刻的被Multics影响着(Prime的创建者Bill Poduska曾在通用电气为Multicsul工作，然后去了DEC，Multics曾经的多语言经理Bob Freiburghouse是Stratus公司的创始人)。英特尔386，486系列的内存管理看起来是来自Multics的手册。但最重要影响恐怕是来自贝尔实验室的Dennis Ritchie和Ken Thompson，以及他们的同事Mcllroy，Morris，Neumann，以及接触了CTSS和Multics的Ossanna。Ritchie告诉我：
 
+> 我们从Multics学到了很多重要的事情：
+> * 树形的文件系统结构
+> * 一个命令解释程序，甚至这个程序的名字“shell”也是取自Multics
+> * 更重要的是，文件的结构就是没有结构，之看做字节数组。大多数情况下操作系统对此不作解释
+> * 文本文件只是有换行字符分隔的字符序列
+> * 读写操作的语义都是针对一个文件句柄，一个缓冲区，一个计数。对上隐藏了底层的磁盘簇块
 
 
 ---
