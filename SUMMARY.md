@@ -1,21 +1,21 @@
 # Summary
 
 * [封面](README.md)
-* [前言](0-Mix/0-Preface.md)
-* [感谢](0-Mix/1-Acknowledgements.md)
-* [简介](0-Mix/2-Introduction.md)
+* [前言](mix/0-Preface.md)
+* [感谢](mix/1-Acknowledgements.md)
+* [简介](mix/2-Introduction.md)
 * 起源
-    * [太空序曲](1-Genesis/0-Prelude_to_Space.md)
-    * [1969年夏天到1970年秋天](1-Genesis/1-Summer_1969-Fall_1970.md)
-    * [机械计算和电子计算](1-Genesis/2-Calculating_and_Computing.md)
-    * [操作系统](1-Genesis/3-Operating_System.md)
-    * [MAC项目：CTSS和Multics](1-Genesis/4-Project_MAC_CTSS_and_Multics.md)
+    * [太空序曲](chapters/0-Prelude_to_Space.md)
+    * [1969年夏天到1970年秋天](chapters/1-Summer_1969-Fall_1970.md)
+    * [机械计算和电子计算](chapters/2-Calculating_and_Computing.md)
+    * [操作系统](chapters/3-Operating_System.md)
+    * [MAC项目：CTSS和Multics](chapters/4-Project_MAC_CTSS_and_Multics.md)
 * 一个系统的诞生
     * PDP-11
     * 1971，第一版
     * 1971-1973，C语言和管道
     * 1973，第一篇论文
-    * [法律 第一部分](2-Birth_of_a_System/The_Law_Part_I.md)
+    * [法律 第一部分](chapters/9-The_Law_Part_I.md)
 * 什么造就了Unix?
     * 用户 第一部分
     * 为什么是Unix
