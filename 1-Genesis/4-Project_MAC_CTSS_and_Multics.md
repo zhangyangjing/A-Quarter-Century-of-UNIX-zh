@@ -50,12 +50,13 @@ Tom Van Vleck说：
 
 > 在68年到69年系统已经延期并且资金紧张有被取消的风险。或许这恰好鼓舞了团队精神(相比于表面的士气)。1968年ARPA(the Advanced  Research Proect Agency of the Department of Defense)的一次审查是我们最接近被取消的时候，不过他们建议我们继续下去。但为时已晚，贝尔实验室在1969年四月正式退出。
 
+直到1993年仍有Multics机器在运行，它们是稀有物种。Van Vleck像我提供了下面的清单，标记型号的是未能确认的站点：
+
+> 
 
 
 
 
-===
-
+---
 **译者注**
-
 [Multics System Programmers' Manual](http://multicians.org/mspmtoc.html)
