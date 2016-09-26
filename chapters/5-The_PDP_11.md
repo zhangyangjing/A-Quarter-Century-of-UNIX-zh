@@ -26,4 +26,8 @@ Andrew Hume告诉我说“B语言一直使用到1989年，控制排字机的程�
 
 > 一旦有了真正的操作系统，就有了退步。B语言版本的汇编器运行速度非常慢，他们只好用汇编语言重写。我猜测还有不少用B语言写的东西。其中较早的一个是展开文件名中星号和其他一些特殊字符的global命令。我不会忘了支持global的原因，他有点不太合理。当shell应用在传入的参数中发现了魔法字符，它就会调用另一个程序展开它们。程序的代码并不在shell程序里面，它是用B语言写成的。
 
+Thompson说当等待PDP-11的磁盘的到时候，它们把PDP-11放在旁边。然后它们把代码移植过去，在内存里运行了文件系统。
+
+但当PDP-11启动起来后，为了可以编出还需要一个文本编辑器。麻省理工的PDP-1有一个名为TECO的编辑器。起初，这是Tap Editor and COrrector的缩写，后来变为Text Editor and COrrector。TECO是EMACS(Editing MACroS)的前身。1967年L.P.Deutsch和B.W.Lampson在SDS-940上面开发了一个名为QED(Quick EDitor)的TECO实现。SDS不久成为Xerox。Thompson在麻省理工曾经在IBM 7094上为CTSS编写过一个QED。他和Ritchie后来又在贝尔实验室为GE-635写了一个。现在Thompson为PDP-11写了一个简单的线性编辑器ed。但PDP-11已经被用作文字处理用，所以这个文本编辑程序应该还要能把文本显示出来。
+
 
