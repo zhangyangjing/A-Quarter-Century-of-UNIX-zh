@@ -8,7 +8,7 @@ BCPL(Basic Combined Programming Language，基础组合编程语言)是Martin Ri
 
 Richine解释说：
 
-> 那时候(1968)我加入到实验室最早就是和Rudd Canaday搭档。他曾经将BCPL编译器移植到通用电气的GE-635上的GECOS系统。那时他正在将BCPL移植到Multics，所以我接触到了运行BCPL的Multics。那是非常早的一个移植版本，我们移植后Martin Richards一直在持续改进它。
+> 那时候(1968)我加入到实验室，最早是和Rudd Canaday搭档。他曾经将BCPL编译器移植到通用电气的GE-635上的GECOS系统。那时他正在将BCPL移植到Multics，所以我接触到了运行BCPL的Multics。那是非常早的一个移植版本，我们移植后Martin Richards一直在持续改进它。
 
 > 既然有了BCPL，我们通过它写了一些简单的程序。在第一个Unix系统上面B是基于BCPL的精简编程语言。它作为一个解释器输出的并不是机器码，而是一种中间码。
 
@@ -16,7 +16,7 @@ Richine解释说：
 
 > B的确是Unix上面的第一个高级编程语言，有一些东西就是用它编写的。它一共有两个具体实现版本，其中一个输出基于栈中间码的普通解释器，另一个被称之为vb(virtual B)的版本可以将机器的4K内存分页映射，解释器因此可以使用大于物理内存的内存。那时我们的一个程序需要比物理内存大的多的内存，我们用vb实现了它。
 
-Andrew Hume告诉我说“B语言一直使用到1989年，控制排字机的程序就是用B写的”。但硬件的种种限制还是让人沮丧。最后Ossanna建议购买一台PDP-11/20用于一个文字排版项目。Ritchie说：“Lee McMahon认为我们做的很好”。在他的努力之下(和对文字排版的信心)，声学研究总监Max Mathews资助了种子资金。McIlroy告诉我说“没有外部计算机科学的帮助，Unix可能永远都不会诞生”。实验室的管理员认为文字排版是又用的项目，于是他们预定了PDP-11。Ritchie说：
+Andrew Hume告诉我说“B语言一直使用到1989年，控制排字机的程序就是用B写的”。但硬件的种种限制还是让人沮丧。最后Ossanna建议购买一台PDP-11/20用于文书处理系统。Ritchie说：“Lee McMahon认为我们做的很好”。在他的努力之下(和对文书处理的信心)，声学研究总监Max Mathews资助了种子资金。McIlroy告诉我说“没有外部计算机科学的帮助，Unix可能永远都不会诞生”。实验室的管理员认为文字排版是又用的项目，于是他们预定了PDP-11。Ritchie说：
 
 > 我们在1970年夏天很早就拿到了PDP-11，但只有处理器和内存运到，磁盘还没有过来。它的所有软件都是纸带方式输入，你只能用纸带输入东西，并且还没有操作系统。Unix诞生的第一件事是在PDP-7上用B语言写的PDP-7汇编器编写PDP-11的跨平台汇编器。
 
@@ -28,7 +28,7 @@ Andrew Hume告诉我说“B语言一直使用到1989年，控制排字机的程�
 
 Thompson说当等待PDP-11的磁盘的到时候，它们把PDP-11放在旁边。然后它们把代码移植过去，在内存里运行了文件系统。
 
-但当PDP-11启动起来后，为了可以编出还需要一个文本编辑器。麻省理工的PDP-1有一个名为TECO的编辑器。起初，这是Tap Editor and COrrector的缩写，后来变为Text Editor and COrrector。TECO是EMACS(Editing MACroS)的前身。1967年L.P.Deutsch和B.W.Lampson在SDS-940上面开发了一个名为QED(Quick EDitor)的TECO实现。SDS不久成为Xerox。Thompson在麻省理工曾经在IBM 7094上为CTSS编写过一个QED。他和Ritchie后来又在贝尔实验室为GE-635写了一个。现在Thompson为PDP-11写了一个简单的线性编辑器ed。但PDP-11已经被用作文字处理用，所以这个文本编辑程序应该还要能把文本显示出来。
+但当PDP-11启动起来后，为了可以编程还需要一个文本编辑器。麻省理工的PDP-1有一个名为TECO的编辑器。起初，这是Tap Editor and COrrector的缩写，后来变为Text Editor and COrrector。TECO是EMACS(Editing MACroS)的前身。1967年L.P.Deutsch和B.W.Lampson在SDS-940上面开发了一个名为QED(Quick EDitor)的TECO实现。SDS不久成为Xerox。Thompson在麻省理工曾经在IBM 7094上为CTSS编写过一个QED。他和Ritchie后来又在贝尔实验室为GE-635写了一个。现在Thompson为PDP-11写了一个简单的线性编辑器ed。但PDP-11已经被用作文书处理用，所以这个文本编辑程序应该还要能把文本显示出来。
 
 > J.E.Saltzer曾经写过为CTSS写过runoff。Doug McIlroy回忆说：
 
