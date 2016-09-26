@@ -30,4 +30,10 @@ Thompson说当等待PDP-11的磁盘的到时候，它们把PDP-11放在旁边。
 
 但当PDP-11启动起来后，为了可以编出还需要一个文本编辑器。麻省理工的PDP-1有一个名为TECO的编辑器。起初，这是Tap Editor and COrrector的缩写，后来变为Text Editor and COrrector。TECO是EMACS(Editing MACroS)的前身。1967年L.P.Deutsch和B.W.Lampson在SDS-940上面开发了一个名为QED(Quick EDitor)的TECO实现。SDS不久成为Xerox。Thompson在麻省理工曾经在IBM 7094上为CTSS编写过一个QED。他和Ritchie后来又在贝尔实验室为GE-635写了一个。现在Thompson为PDP-11写了一个简单的线性编辑器ed。但PDP-11已经被用作文字处理用，所以这个文本编辑程序应该还要能把文本显示出来。
 
+> J.E.Saltzer曾经写过为CTSS写过runoff。Doug McIlroy回忆说：
 
+> 我相信是Morris或者Thompson将runoff移植到了635并且改名为roff。它是一个快速开发的东西，只用了一夜的时间。然后我用BCPL语言重头实现了一个简单却超越runoff的roff。那成为Thompson和Ritchie在Unix上实现(用机器语言)的样本。
+
+McIlroy后来写信给我说：“Ken已经不记得635上面的roff，因此我猜测他其实并没有参与roff的开发。然而他记得他曾大概在Unix之前为PDP-7写过一个叫rf的小程序”。这看起来有些矛盾，后来又“猜测”是Ritchie实现了它。
+
+Ritchie说“我知道有一个骗局正在发生，我们承诺了一个文本处理系统，而不是一个操作系统”。但文本处理的努力付出是成功的：贝尔实验室的法务部门和研究小组共享PDP-11/20，成为第一个Unix用户。更为重要的是，实验室的法务部门随后接管了运行Unix的11/20，并且给计算机研究小组拨款购买了PDP-11/45。
