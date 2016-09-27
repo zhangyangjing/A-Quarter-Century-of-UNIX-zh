@@ -36,6 +36,14 @@ Unix社区为贡献者保留他们个人信息的传统就是从这里开始的�
 | ![commands](/assets/commands.jpg) |
 | :-: |
 
+这60条命令中，有许多我们仍然非常熟，虽然很少还有纸带阅读机，DEC RK05s，或者IBM 2741s存在。其他一些命令已经失去具体作用或者演变成其他的东西：**dsw**(delete using switches)被**rm**(remove)命令包含，**db**在第7版中成为**adb**。**for**在第2版中成为**fc**，第7版中成为**f77**。在第5版中**lbppt**成为**restor**，**dbppt**成为**dump**。许多命令消失了：**dtf**在第1版后就取消了，同样的还有**hup**，**rkd**，**rkf**，**rkl**，以及**sdate**。
+
+著名的**create**创建新文件命令出现在第二节，系统调用章节。Thompson脸上带着笑容回忆说他最大的错误是保留了**create**的-e选项。
+
+Doug McIlroy告诉我Thompson最大的错误其实是“将Unix全部用大写字母拼写。Unix，Fortran，还有其他的计算机名词都是很好的名字。一张这样的纸比一张全是大写字母的纸更能吸引别人的兴趣”。这段评论导致我在这本书的大部分都用Unix代替了UNIX。就像之前说的，系统一直在持续演变，所以接下来的两年是非常让人兴奋的一段时间。
+
+| ![history](/assets/history.jpg) |
+| :-: |
 
 
 
