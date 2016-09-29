@@ -58,4 +58,6 @@ DM11 16路多路复用器
 
 C？C是什么？手册中关于cc的部分(1972年3月15日)告诉我们它是一个C语言编译器，并且引导你去看“C语言参考手册”。五年以后Brian Kernighan和Dennis Ritchie出版了`The C programming Language`，尽管手册更早的融合到了文档中。用这种新语言重写Unix(第四版)是极为重要的，而且C语言自身也成为计算机界重要的一部分。
 
+Mike Mahoney向Dennis Ritchie询问关于C语言的设计细节：
+
 
