@@ -21,4 +21,5 @@ UNIX是一个简洁，优雅，可移植，以及能力非常强大的软件系�
 
 * 本书由Addison-Wesley出版社于1994年出版
 * 在线阅读：http://unix25.zhangyangjing.com
+* 翻译源码：https://github.com/zhangyangjing/A-Quarter-Century-of-UNIX-zh
 * 英文原版：http://wiki.tuhs.org/lib/exe/fetch.php?media=publications:qcu.pdf
