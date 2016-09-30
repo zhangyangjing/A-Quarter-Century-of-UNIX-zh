@@ -14,7 +14,7 @@
     * [PDP-11](chapters/5-The_PDP_11.md)
     * [1971年，第一版](chapters/6-First_Edition_1971.md)
     * [1971-1973，C语言和管道](chapters/7-C_and_pipes_1971_to_1973.md)
-    * 1973，第一篇论文
+    * [1973，第一篇论文](chapters/8-The_First_Paper_1973.md)
     * [法律 第一部分](chapters/9-The_Law_Part_I.md)
 * 什么造就了Unix?
     * 用户 第一部分
