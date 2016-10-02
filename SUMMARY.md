@@ -17,7 +17,7 @@
     * [1973，第一篇论文](chapters/8-The_First_Paper_1973.md)
     * [法律 第一部分](chapters/9-The_Law_Part_I.md)
 * 什么造就了Unix?
-    * 用户 第一部分
+    * [用户](chapters/10-The_Users.md)
     * 为什么是Unix
     * 风格和工具
     * PWB和MERT
@@ -44,4 +44,3 @@
     * 结尾：它为什么成功？
     * 扩展阅读
     * 名词列表
-
