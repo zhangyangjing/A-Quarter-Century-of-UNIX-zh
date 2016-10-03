@@ -50,4 +50,4 @@ Ferentz，Katz和Bornholdt在Fuchs的组织下建立了会议。Ferentz自己说
 |Lew Law|哈佛大学|
 |Peter Weiner|交互系统公司|
 
-
+Law被推选为主席，委员会的名字确定为USENIX委员会(UNIX是贝尔实验室的商标，USENIX不是)
