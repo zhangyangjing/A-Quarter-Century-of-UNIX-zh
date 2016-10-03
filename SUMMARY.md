@@ -18,7 +18,7 @@
     * [法律 第一部分](chapters/9-The_Law_Part_I.md)
 * 什么造就了Unix?
     * [用户](chapters/10-The_Users.md)
-    * 为什么是Unix
+    * [为什么是Unix](chapters/11-Why_Unix.md)
     * 风格和工具
     * PWB和MERT
     * 实用工具
