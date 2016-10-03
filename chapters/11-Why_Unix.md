@@ -23,4 +23,6 @@
 
 Rudd Canaday将它们简单的总结为:“Unix之所以能走出贝尔实验室是因为大家都喜爱它”。最近，Armando Settner说:“它不区分自己的还是我的方式”。
 
+在1976年和1977年，Tom Lyon使Unix的一些部分可以在普林斯顿大学的IBM 360机器上的VM/360系统上运行。在1977到1978年，Ritchie和Steve Johnson将Unix移植到Interdata 8/32，就在同一时间Richard Miller和他的同事将Unix移植到澳大利亚伍伦贡大学的一台Interdata 7/32上。Ritchie曾经说将Unix移植到Interdata是他最自豪的意见编程工作之一。这说明Unix真正的移植到非DEC制造的机器。我一会还会说到这些。
+
 
