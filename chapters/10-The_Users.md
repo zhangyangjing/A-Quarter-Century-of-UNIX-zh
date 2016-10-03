@@ -80,4 +80,4 @@ Bill Shannon和其他几个来自凯斯西储大学的人出席了1978年哥伦�
 
 NLUUG是在1978年11月成立的。Unix传播到欧洲，另一个国家机构成立了，并且在1981年欧洲Unix系统用户组(EUUG，现在的Eur-Open)有了他们的第一次会议。有趣的是，Unix在日本的出现比澳大利亚晚了两年，因此Unix用户会议要晚于欧洲和澳大利亚。
 
-
+1976年东京大学的Haruhisa Ishida将Unix介绍到日本后没多久，Jun Murai，Koichi Kishida，Nobuo Saito就成立了日本Unix社团(jus)。最初它是一个Unix学习小组，但它成长的非常快。十年后，Unix真正的被全世界用户使用。
