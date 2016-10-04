@@ -19,7 +19,7 @@
 * 什么造就了Unix?
     * [用户](chapters/10-The_Users.md)
     * [为什么是Unix](chapters/11-Why_Unix.md)
-    * 风格和工具
+    * [风格和工具](chapters/12-Style_and_Tools.md)
     * PWB和MERT
     * 实用工具
 * Unix的传播和兴盛
