@@ -14,4 +14,10 @@ Kernighan告诉Peter Collinson:
 
 *编程风格*引起了很大的轰动。但是不管是Plauger还是Kernighan都强调它只涉及了FORTRAN和PL/I。他们两人合作的下一件工作有着更加深远的影响。Collinson问Kernighan他是怎么开始写*软件工具*(Software Tools)的。他回答说:“这很难说”。
 
-> 
+> 几年以后，我们决定是时候去告诉人们一点东西，让他们知道他们应该怎么做事情。那时候，我们清楚的知道一些Unix环境的好处:管道可以让程序在一起协同工作，还可以加上过滤器。还没有一本书清楚了讲解怎么用一个编程语言实现这些。当然，C语言在很多环境里是不存在的。我已经完成了Ratfor(Rational FORTRAN)。Ratfor简单的偷窃了C语言好的一面，但是除此之外并没有添加太多东西。它还算不错，将FORTRAN变成一个编程语言。
+
+> 我们决定用Ratfor作为那本书的编程语言实在是违反传统，因为它只有很少的用户。小组里没有一个人，因为那时没人用FORTRAN语言，除了数值分析员。但他们担心可移植性所以他们不想用Ratfor语言写出无法月的的FORTRAN代码。
+
+> 最初的版本使用C语言用一些yacc的语法写的(**yacc**是“yet another compiler-compiler”的简写，由Steve Johnson编写)。给出自举，它就能花费一些时间用Ratfor语言写出来。之后它能在一个只运行FROTRAN的机器上运行。为了软件工具包分发的一部分程序是用Ratfor实现的Ratfor，还有一部分是用FORTRAN实现的。纸带上开头就是FORTRAN实现的Ratfor，因此你可以简单的拿出纸带开始运行。
+
+Collinson接着问:“那么你有了Ratfor，你是怎么从它们到软件包的”?
