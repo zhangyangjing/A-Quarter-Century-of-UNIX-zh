@@ -51,4 +51,7 @@ Mike O'Dell告诉我:“记着，Debbie知道Brian，他知道他们在做什么
 ---
 **译者注**
 
+* [Plauger](http://plauger.com/)
+* [Ratfor](http://sepwww.stanford.edu/doku.php?id=sep:software:ratfor)
+* [Software Tools](https://www.amazon.com/Software-Tools-Brian-W-Kernighan/dp/020103669X)
 * [The Elements of Programming Style ](http://www2.ing.unipi.it/~a009435/issw/extra/kp_elems_of_pgmng_sty.pdf)
