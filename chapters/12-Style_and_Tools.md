@@ -74,7 +74,7 @@ Mike O'Dell告诉我:“记着，Debbie知道Brian，他知道他们在做什么
 
 * VAX开始购销售大量的BSD Unix。之前在Preime上使用软件工具的人们现在可以用同样或者更少的花费用上Unix和虚拟内存。需求开始快速的下降。
 
-
+主要的相关人员按有Dan Forsyth，Paul manno，Perry Flinn，Allen Akin，Win Strickland。
 
 
 
