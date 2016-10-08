@@ -20,7 +20,7 @@
     * [用户](chapters/10-The_Users.md)
     * [为什么是Unix](chapters/11-Why_Unix.md)
     * [风格和工具](chapters/12-Style_and_Tools.md)
-    * PWB和MERT
+    * [PWB和MERT](chapters/13-PWB_and_MERT.md)
     * 实用工具
 * Unix的传播和兴盛
     * 用户 第二部分
