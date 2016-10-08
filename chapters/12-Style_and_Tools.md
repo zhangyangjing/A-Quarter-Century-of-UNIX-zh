@@ -108,6 +108,9 @@ Mike O'Dell告诉我:“记着，Debbie知道Brian，他知道他们在做什么
 
 STUG中的许多名字都被Unix用户所熟悉:Neil Groundwater，Mike O'Dell，Scherrer，Joe Svented，Dave Stoffel，还有Wally Wedel。
 
+我上次说到O'Dell时他还是俄赫拉荷马州立大学的一个学生，现在他已经完成了他的硕士学位论文(“不久前我有看了一下它”，他告诉我，“它并不是难的可怕”),并且在找工作。用他的话说:
+
+
 
 
 
