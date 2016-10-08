@@ -106,7 +106,7 @@ Mike O'Dell告诉我:“记着，Debbie知道Brian，他知道他们在做什么
 
 软件工具引发了另一个平民运动。一部分热心用户将它叠加到系统来使用Unix。但是其哲学是可以移植的:写一个程序，只做一件事情，并且把事情做好。
 
-
+STUG中的许多名字都被Unix用户所熟悉:Neil Groundwater，Mike O'Dell，Scherrer，Joe Svented，Dave Stoffel，还有Wally Wedel。
 
 
 
