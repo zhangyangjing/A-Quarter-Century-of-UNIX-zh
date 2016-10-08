@@ -2,4 +2,6 @@
 
 回忆Thompson和Ritchie为PDP-7写的第一个系统，第一版是在1971年为PDP-11/20写的。第四版是贝尔实验室于1973年末在第三版的基础上用C语言重写的，当它使另一个项目获得成长:程序员的工作台(PWB)。它的第一版帮助Charlie Roberts思考。Bob Morris说Rudd Canaday从来没有得到他提供的贷款。对Roberts来说也是这样。MERT(多环境实时)是Roberts的发明，虽然它的大部分是由Heinz Lycklama和Doug Bayer写的。Roberts告诉我:
 
-> 
+> 1970年早期，我知道在PDP-11上有一个Unix，它是用B语言实现的。但在我看来Steve Johnson已经在谈论C语言。在1970年10月我离开莫里山计算机中心回到科研。我作为客户已经意识到专利，并且我回顾思考1127将Unix视为分时系统来为文档做准备。计算机科学研究就像很多的学术部门:它有两部分。Sam Morgan领导了包含有Dennis，Ken，还有Doug McIlroy的计算机科学那部分。Hank McDonald则是系统计算研究部门的总监。我在哪里为Hank工作，他想为80年代建立下一代的ESS。
+
+
