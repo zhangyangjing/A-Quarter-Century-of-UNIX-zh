@@ -5,3 +5,7 @@
 mail和roff以及ed一样，在Unix第一版时就存在了。Morris曾经将roff移植到635上，McIlroy用BCPL语言将它重写。Thompson将它移植到了Unix。但Joe Ossanna不久又将roff合并到了troff，一个真正针对电传打字机文档的格式器。Ossanna死于1977年11月28，McIlroy告诉我:
 
 > Joe是军需官，他游走于各个厂商，打探硬件的最新发展，和设备部门做交易，还做了很多很多其他的事。他是一个严厉而有吸引力的人。
+
+eqn在第5版的时候加入进来。Brian Kernighan说这是他对Unix做出的第一个重大贡献。就像他向Collinson说的:
+
+> 
