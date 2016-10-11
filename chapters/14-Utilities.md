@@ -36,4 +36,6 @@ yacc(yet another compiler-compiler，有一个编译器的编译器)，是Steve 
 
 Johnson同时也和Dennis Ritchie一起在向Interdata 8/32上移植的时候写了第一个可移植的C编译器，lint，spell。lint是一个C程序检测器，可以检测C代码文件是否有bug或者可移植之类的问题。spell是一个拼写检查器，它从文件搜集单词然后在一个拼写列表里面查找它们，单词既没有出现，也不能从拼写列表推导出来，就把它从标准输出打印出来。spell不是第一个拼写检查器，第一个拼写错误检查程是Bob Morris和Lorinda Cherry的typo。它包含在第三版到第七版。spell第一次出现在第五版。typo，用Steve Johnson的话说:
 
-> 
+> 从来没有检查出我的拼写错误。我非常偏重通过发音拼写，经常弄混ible和able，以及ance和ence，但是typo从来没有发现这些。它是基于三角统计，我的错误全都出现了。但是typo非常擅长找出缺少e的th。它会将单词按最不可能出现的顺序排序。
+
+
