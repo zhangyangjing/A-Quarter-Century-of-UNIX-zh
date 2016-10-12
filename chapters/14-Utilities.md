@@ -120,4 +120,6 @@ Cole从卡内基梅隆拿到学位，在俄勒冈州的泰克公司得到一份�
 
 > 我在俄勒冈州的第一个圣诞节是和Rick LeFaivre，Steve一起动手安装PDP-11/70。那台机器成为第二台主要的uucp工作站，“teklabs”运行V7，我们每天都和“Marxs”通信(Cole谈到了新泽西贝尔实验室的chico和harpo。1981年的USENET地图上标注了teklabs-chico的连接)。
 
-> 
+> 我们为VMS写了第一个TCP，它在今天依然存在，被称为“CMU-Tek” TCP。我们用70帮助着建立了“Magnolia”，一个68000多处理器Unix工作站，它运行我和Steve基于Unix改写的操作系统Magix。我们得到一场爆炸！
+
+
