@@ -126,4 +126,6 @@ Cole从卡内基梅隆拿到学位，在俄勒冈州的泰克公司得到一份�
 
 Redman继续说着他的故事:
 
-> 
+> 我发现我还会定期通过发送电子邮件联系，所以我们有了一个社区，这就是NETNEWS的由来(Usenet起源于1979年杜克大学毕业生Jim Ellis和Tom Truscott的一个主意。Usenet的第一个实现是Steve Bellovin写的，它是北卡罗莱纳州立大学的毕业生。USENET在1979年用于杜克大学(**duke**)和北卡罗莱纳州立大学(**unc**)交换信息。1980年**phs**加入进来。Armando Stettner和Bill Shannon组建了第一条东西部连接线路——**duke**到**ucbvax**，同年也建立了到**decvax**的线路。USENET现在是一个包含5000多个组织和几百万用户的巨无中心分散系统)。
+
+
