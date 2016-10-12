@@ -147,7 +147,7 @@ Subject: minutes
 Cc: dmr doug
 ```
 
-> 原谅我下面的文字编辑，由levy组织的一个讨论uucp问题的会议的记录。会上的记录人员有:
+> 原谅我下面的文字编辑，由Levy组织的一个讨论uucp问题的会议的记录。会上的记录人员有:
 
 > eagle！dan，vax135！martin，ihnp4！gjm，gummo！ber，mhtsa！lsc，mhb5b！smb，mhtsa！brad，eagle！karn，whuxlb！pep，allegra！honey。
 
@@ -155,4 +155,8 @@ Cc: dmr doug
 
 > 关于修改uucp的活跃讨论占据了会议的大部分时间。就像有终端版本的uucp，工作站也有众多版本。其中最主要的竞争者是由Robert T. Morris最初写成后来又经Tom Truscott修改的usg 6.0。Cohen严肃谨慎地对待将优秀功能集成到6.0过程中的各种困难。虽然如此，商业公司也参与进来，我们对他们表示欢迎。并且我们同意以此组织为起点来开发一个满足每个人的版本(特别是我们自己)。
 
-> 
+> 被强烈提议的是spool目录的构成方案。当Truscott为C，D文件使用不同目录(我猜其他文件也一样)，Redman和其他人都使用远程工作站的名字作为子目录。热烈的讨论持续不断，最后获得的一致意见是后者更为强健。Levy的关于目录构成应该包含机器名字简短前缀的提议受到大家的欢迎。当usg中使用setuid进程执行mkdir成为一个问题，Bellovin为了推翻这个特性耐心的解释技巧。经过三或四次跑题，会议再回到正轨，让人感觉cico或者其他的守护进程应该在spoll目录执行rmdir，最终没有得到大家都同意的目录构成方案，我想在信息时代这个问题应该在更合适的态度下讨论。
+
+...
+
+>  
