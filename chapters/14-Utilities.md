@@ -147,4 +147,7 @@ Subject: minutes
 Cc: dmr doug
 ```
 
+原谅我下面的文字编辑，由levy组织的一个讨论uucp问题的会议的记录。会上的记录人员有:
+eagle！dan，vax135！martin，ihnp4！gjm，gummo！ber，mhtsa！lsc，mhb5b！smb，mhtsa！brad，eagle！karn，whuxlb！pep，allegra！honey。
+
 
