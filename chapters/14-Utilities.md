@@ -136,6 +136,13 @@ Redman继续说着他的故事:
 
 Bellovin改进了他为NETNEWS写的代码，然后Steve Daniel和Truscott都做了改进。最后的结果是**A News**。1981年，毕业于伯克利大学的Mark Horton和高中生Matt Glickman将**A News**重写成为**B News**。1987年多伦多大学的Henry Spencer和Geoff Collyer做出另一个选择**C News**。还有另外很多有用的NETNEWS修改版本，Spencer Thomas，Rick Adams，Ray Essick，Bob Kolstad，以及其他很多人都做出了自己的版本。但是让我们返回到UUCP。
 
-感谢Peter Honeyman，这是他在1983年会议上的部分发言(用他独特的文字):
+感谢Peter Honeyman，这是他在1983年会议上的部分会议记录(用他独特的文字):
 
-> 
+> uucp爱好者的第一次(也是最后一次)会议在1983年4月20号举办。邀请了allegra！honey，vax135！martin，eagle！karn，rabbit！ark，mhb5b！smb，harpo！ber，cbosgd！mark，floyd！trb，research！rtm和eagle！dan。另外还有USG的代表mhtsa！sc和mhtsa！brad，whuxlb！pep和gummo！mmp.下面是未删减的会议记录。
+
+> From: Honey Wed Apr 20 00:46:26 1983
+> To: uucplovers
+> Subject: minutes
+> Cc: dmr doug
+
+
