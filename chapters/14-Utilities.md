@@ -147,7 +147,10 @@ Subject: minutes
 Cc: dmr doug
 ```
 
-原谅我下面的文字编辑，由levy组织的一个讨论uucp问题的会议的记录。会上的记录人员有:
-eagle！dan，vax135！martin，ihnp4！gjm，gummo！ber，mhtsa！lsc，mhb5b！smb，mhtsa！brad，eagle！karn，whuxlb！pep，allegra！honey。
+> 原谅我下面的文字编辑，由levy组织的一个讨论uucp问题的会议的记录。会上的记录人员有:
 
+> eagle！dan，vax135！martin，ihnp4！gjm，gummo！ber，mhtsa！lsc，mhb5b！smb，mhtsa！brad，eagle！karn，whuxlb！pep，allegra！honey。
 
+> 第一个讨论话题是企业电子邮件项目和它的伴生项目网络功能中心。网络中心上有452个成员和774个设备与组织共同管理。murakani给人的印象是这在实验室是固有设备的起始阶段，其他任何问题都是临时的。L.sys数据库正因为新的数据库和新的的标准不断出现而逐渐走向失败。每个月关于L.sys意义的讨论最后得到了一致意见，工作站应该继续维护一个本地的L.sys，并且那个本地文件应该首先被搜索。参与的人有la koenig，honeyman以及所有人。
+
+>
