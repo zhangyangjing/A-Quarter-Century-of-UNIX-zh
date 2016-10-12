@@ -135,3 +135,7 @@ Redman继续说着他的故事:
 > 不管怎么说，我做了那些事情。Honeyman发出一封邮件说“让我们一起讨论下UUCP的事情。我们把所有的修改放在一起，然后将它提供给每一个用户，这样我们就都运行着同样的东西”。于是我们发出一个通知，并且在莫里山举办里一个会议。哥伦布的Mark Horton，Honeyman，我，Bellovin，以及实验室的所有运行系统的人都参加了会议。我想Honeyman有一个出席列表。根本上，Honeyman，Dave Nowitz和我一起将所有修改合并在一起。Steve Bellovin也做了很大的贡献。我们在那天晚上开始动手。事实大家分工非常好:我做目录相关的事情，Nowitz对于安全更感兴趣。所以我们一起分工合作并且做的非常棒。
 
 Bellovin改进了他为NETNEWS写的代码，然后Steve Daniel和Truscott都做了改进。最后的结果是**A News**。1981年，毕业于伯克利大学的Mark Horton和高中生Matt Glickman将**A News**重写成为**B News**。1987年多伦多大学的Henry Spencer和Geoff Collyer做出另一个选择**C News**。还有另外很多有用的NETNEWS修改版本，Spencer Thomas，Rick Adams，Ray Essick，Bob Kolstad，以及其他很多人都做出了自己的版本。但是让我们返回到UUCP。
+
+感谢Peter Honeyman，这是他在1983年会议上的部分发言(用他独特的文字):
+
+> 
