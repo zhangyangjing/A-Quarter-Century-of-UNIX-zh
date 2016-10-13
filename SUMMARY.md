@@ -23,7 +23,7 @@
     * [PWB和MERT](chapters/13-PWB_and_MERT.md)
     * [实用工具](chapters/14-Utilities.md)
 * Unix的传播和兴盛
-    * 用户 第二部分
+    * [用户 第二部分](chapters/15-The_Users_Part_II.md)
     * 伯克利Unix 第一部分
     * V7
     * 伯克利Unix 第二部分
