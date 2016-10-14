@@ -76,4 +76,6 @@ Hagen不是唯一在DEC方面有麻烦的人，Lou Katz告诉我:“基本上，
 
 Kremvax真正的创造者是Piet Beertema，那条消息在1984年的4月1日发出。六年后，当demos.su介入USENET，Demos的资深程序员Vadim Antonov说服人们那不是另一个恶作剧。Armando Stettner的故事和Hagen的有些不太一样，他告诉我:
 
-> 
+> 我们在很多地方使用UUCP。但是我们没有做出NETNEWS。Teus和我在一个会议上讨论建立NETNEWS的主意。我说“看，做出NETNEWS连接大西洋有什么问题吗？是时候连接起来了。如果在你我的电脑上都安装compression，我就可以向你发送新闻了”。我不知道怎么开始的。但Teus后来给我发邮件说“复制复制这个东西到电脑上”，然后我们让它运行起来了...不久之后我开始通过Teus的机器和欧洲交换NETNEWS。成功了几个星期后，我通过Robert Elz的机器又将澳大利亚接入到网络。
+
+
