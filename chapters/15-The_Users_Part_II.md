@@ -24,4 +24,6 @@ Mike Cole补充说:
 
 不久之后，Nigel Martin成为QMC的学生，城市大学的Sunil Das得到西部电气的一个授权，不需要再等新泽西购买到英国:Sunil从Nigle那里得到一个第5版Unix。
 
+在那段时间，多伦多大学得到了一份Unix。在详细讲述这段历史之前，很有必要了解加拿大和Unix的紧密联系。Brian Kernighan是一个还在多伦多上学的学生，Al Aho也在那里得到了他的学位。Heinz Lycklama在安大略汉密尔顿的麦克马斯特大学接受教育。Morven Gentleman去麦吉尔(蒙特利尔)并且在滑铁卢(安大略)学院呆了了15年。Tom Duff是滑铁卢的肄业生，去加入了多伦多大学的Rob Pike，David Tilbrook，Howard Trickey，以及Mike Tilson。Tom Cargill在滑铁卢拿到了博士学位。还有许多其他人可以提到(甚至我也作为多伦多大学的职员长达11年)。
+
 
