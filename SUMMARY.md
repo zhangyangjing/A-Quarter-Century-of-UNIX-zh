@@ -24,7 +24,7 @@
     * [实用工具](chapters/14-Utilities.md)
 * Unix的传播和兴盛
     * [用户 第二部分](chapters/15-The_Users_Part_II.md)
-    * 伯克利Unix 第一部分
+    * [伯克利Unix 第一部分](chapters/16-Berkeley_Unix_Part_I.md)
     * V7
     * 伯克利Unix 第二部分
     * 商业Unix
