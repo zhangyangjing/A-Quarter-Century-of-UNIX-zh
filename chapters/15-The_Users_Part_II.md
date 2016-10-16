@@ -166,6 +166,8 @@ John Lions和Mel Ferentz的来往信件表明，大多数的Unix设备远距离�
 
 日本Unix社团(jus)是由Kouichi Kishida，Jun Murai，Nobuo Saito建立的。我会再回来继续说这个，但是现在我想回到1977年的USENIX《;login:》。那一期通讯向用户宣告了PWB的发布，用户可以向Ted Dolotta索要相关的论文。下一期(第2卷第9号)宣告“用户组的会员现在超过了250”。1977年11月的《;login:》包含了连个声明，一个是Joseph F. Ossanna的死讯，一个是即将发布的《C语言编程》。
 
+1978年3月，Lew Law宣布4卷本PWD手册已经由哈佛科技中心出版(定价26.5美金)。接下来的8月，Ferentz使用《;login:》的整个首页版面宣布纯Unix信息的《贝尔系统杂志》特刊。
+
 
 
 ---
