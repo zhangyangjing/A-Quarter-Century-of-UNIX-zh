@@ -102,4 +102,6 @@ Settner向澳大利亚发送消息并没有听起来那么的奇怪。新南威�
 
 > 就在同时，Steve Johnson和Dennis正在做他们的移植。
 
+这真的是一个不同寻常的工作，Johnson回忆说。Rich Miller在1977年2月澳大利亚的第二届Unix用户组会议上谈论起它。
+
 
