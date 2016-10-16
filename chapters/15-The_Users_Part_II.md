@@ -185,6 +185,8 @@ bug修复，硬件增强，新的软件，优雅的hack。这就是USENIX，AUUG
 Tom Ferrin的图如下所示:
 
 
+| ![](/assets/mfpi_fix.jpg) |
+| :-: |
 
 
 ---
