@@ -148,6 +148,8 @@ John Lions和Mel Ferentz的来往信件表明，大多数的Unix设备远距离�
 
 > Mini-UNIX已经发布，LSI-UNIX和Mert可能会在稍后的时间发布。
 
+记住:**没有通知，没有支持**。厄巴纳会议上出现了第一次编程竞赛，是由Steve Holmgren发起的。所有用户都不得不互相帮助。
+
 
 
 ---
