@@ -8,4 +8,6 @@
 
 > Michael Stonebraker和Eugene Wong两位教授的Ingres数据库项目是第一批移植到Unix的软件。由于他们不满意分配的时间，1974年春天他们自己买了PDP-11/40。但自此之后，学生们就没有足够的时间在11/45上面上机。1974年6月Stonebraker和Fabry两位教授计划为计算机科学系再购买两台教学用11/45。他们在1975年早期得到资金，刚好那时DEC宣布了11/79机型，他们觉得这个型号非常合适，于是资金汇集起来。11/70机器在秋天运了过来，正赶上Ken Thompson来这里以访问教授的身份进行一年的学术休假。Thompson，Bob Kridle，还有Jeff Schriebman在新买的11/70上面安装了第6版Unix。
 
+还有一个意外结果是“50 bug”纸带。Thompson告诉我:
+
 > 
