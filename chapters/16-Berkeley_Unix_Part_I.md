@@ -2,4 +2,6 @@
 
 伯克利加利福尼亚大学的Robert Fabry教授在1973年工作于SOSP程序。它对Thompson的报告有着非常深刻的印象。当他返回科瑞教学楼的时候，Fabry的第一份工作是尝试让计算机科学系，统计系，还有数学系合资购买一台PDP-11/45。他向Thompson订购了纸带，在1974年由毕业生Keith Standiford安装了Unix。就像Kirk McKusick所说的，Ken Thompson参与此前所有安装，但是不包含这一个，因为“有几个奇怪的系统崩溃需要他去解决”。Thompson会打电话给在机房里的Keith Standiford，电话随后换成了300波特率声学调制解调器，Thompson通过会通过电话线“在新泽西远程调试bug”。
 
+接下来出现了一个问题，因为数学系和统计系想使用DEC的RSTS系统。因此一天的时间被分成了几部分:RSTS运行16小时后，Unix接着运行剩下的8小时。当时在那里接触到Unix的学生Eric Allman说:
 
+> 
