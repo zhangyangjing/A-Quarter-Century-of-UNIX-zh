@@ -58,6 +58,14 @@ Lou Katz的说法有些不一样:
 
 就在同时，Pascal编译器的新闻开始到处传播(1978年)，Joy开始制作伯克利软件发行版(BSD)。1978年3月它通过一封信提供给Tom Ferrin。“授权”写在信纸的另一面。Tom在3月13日签收了这封邮件。这份磁带包括:
 
+1. Unix Pascal系统
+2. Ex文本编辑器
+
+... 作者是
+
+1. W.N.Joy，S.L.Graham，C.B.Haley，K.Thompson
+2. W.N.Joy
+
 
 
 
