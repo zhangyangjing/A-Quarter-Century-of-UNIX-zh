@@ -25,4 +25,6 @@ Unix第7版在1979年6月由贝尔实验室发布，它有几个主要的提升:
 
 **awk**(Aho Weinberger Kernighan)，**lint**(Johnson)，**make**(Feldman)，以及**uucp**(Lesk)这几个就足够了，但是第7版远比这更多。
 
+第7版的编程手册增加到了400页，还有两卷400页的附加补充。这个Unix中包含了一个完整的Kernighan和Richie C语言编译器，一个更加成熟的shell sh(Bourne Shell)，Dick Haight的find，cpio和expr，还有很多的包含头文件。
+
 
