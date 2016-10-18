@@ -67,3 +67,6 @@ Marc Donner向我解释说:
 
 > 所以Dennis和我完成了一个Unix移植，然后决定再也不去做下一个。这在漫长的历史中还是第一次。
 
+时间到了1979年1月，第7版《UNIX编程手册》的封面上既没写Dennis的名字也没写Ken的名字。上面写着:
+
+> UNIX™ TIME-SHARING SYSTEM
