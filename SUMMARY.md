@@ -26,7 +26,7 @@
     * [用户 第二部分](chapters/15-The_Users_Part_II.md)
     * [伯克利Unix 第一部分](chapters/16-Berkeley_Unix_Part_I.md)
     * [V7](chapters/17-Version_7.md)
-    * [伯克利Unix 第二部分](伯克利unix-第二部分.md)
+    * [伯克利Unix 第二部分](chapters/18-Berkeley_Unix_Part_II.md)
     * [商业Unix](商业unix.md)
     * DEC
     * 法律 第二部分
