@@ -22,3 +22,7 @@ Unix第7版在1979年6月由贝尔实验室发布，它有几个主要的提升:
 |string||
 |**游戏**||
 |backgammon||
+
+**awk**(Aho Weinberger Kernighan)，**lint**(Johnson)，**make**(Feldman)，以及**uucp**(Lesk)这几个就足够了，但是第7版远比这更多。
+
+
