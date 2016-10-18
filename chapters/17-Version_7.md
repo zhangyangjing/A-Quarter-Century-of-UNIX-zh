@@ -51,4 +51,6 @@ Marc Donner向我解释说:
 
 > IBM意识到我们比Interdata做的更好。还有一个很强大的竞争对手是DEC 20，它是一个26位机器，Dennis对它的评价是如果有人发明了10路纸带驱动器，他就会将Unix移植到DEC 20。基于8位字节写36位数据的问题是这远远超过了Unix文件系统所能处理的极限...
 
-> 
+> Interdata是我使用的最后一台带有核心的机器——一个绕线的铁圈。Interdata后来被卖给Perkin-Elmer，我想他们又再把它卖给了Concurrent。
+
+
