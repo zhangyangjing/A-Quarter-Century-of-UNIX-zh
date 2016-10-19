@@ -21,4 +21,6 @@
 
 > 我在一些会议上见了Fabry，我那时去伯克利和Ferrari，Emmannuel Blum和Bill Joy做论文和演讲。所以在贝尔实验室11区管理部门的祝福下，我将32V给了伯克利，时间是1978年11月。
 
+批准了Roberts合作的管理层是C.C. Cutler，R.W. Lucky，和W.S. Boyle。1127管理层——Doug McIlroy，Sam Morgan，以及Bob Prim也批准了。
+
 
