@@ -25,4 +25,6 @@
 
 1979年32V成为了3BSD。Kirk McKusick向Peter Collinson描述了故事情节:
 
+> 当Ken离开这里回贝尔实验室去的时候，他留下了一份Unix系统。Bill和Chuck Hale接管了这个系统的开发。那时候他们做的是像升级到第6版和集成实验室的“50 fixes”纸带之类的事情。后来他们又将它升级到第7版。
+
 > 
