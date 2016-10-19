@@ -23,4 +23,6 @@
 
 批准了Roberts合作的管理层是C.C. Cutler，R.W. Lucky，和W.S. Boyle。1127管理层——Doug McIlroy，Sam Morgan，以及Bob Prim也批准了。
 
+1979年32V成为了3BSD。Kirk McKusick向Peter Collinson描述了故事情节:
 
+> 
