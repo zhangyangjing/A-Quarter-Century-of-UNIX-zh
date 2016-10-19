@@ -9,5 +9,6 @@
 > Maxims —— (德克萨斯州立大学Bill Schelter移植的通用Lisp版本)
 > Aljabr —— (Jim O’Dell开发的Macintosh版本)
 
+> 所有这些分支版本在本质上都和vaxima差不多，虽然它们的支持者都声称自己选择了最好的。
 
 
