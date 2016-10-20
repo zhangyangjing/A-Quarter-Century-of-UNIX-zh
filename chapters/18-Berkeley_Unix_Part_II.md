@@ -68,4 +68,6 @@ Keith Bostic通过NET2的发布将伯克利Unix开发的历史描绘在一起，
 
 从1969年开始到第6版Unix这段时间只有一个解释器，就是Shell。73年4月18日出版的入门手册一共只有三页。随着Bournes的Shell集成到第7版Unix和Joy的C Shell集成到2BSD，程序员们有了一个选择。1980年中期AT&T贝尔实验室的David Korn发明了Korn shell，给了程序员所期望的更多选择。1986年它被包含在“实验工具箱”中，1989年正式成为SVR4发行版的一部分(1988年911月16日发布)。通常Bournes shell向上兼容Korn shell。还有很多其他的shell，但是sh，csh和ksh是最常用的。
 
+Unix可以运行在不止一台机器上的特点引起了美国国防高级项目局(DARPA)的主意。DARPA的几个合作单位使用了不同硬件和各种操作系统，而且软件都是互相不兼容的，做不到软件互换。DARPA想要一个统一的环境，所以会有很多的交换。McKusick告诉我“很显然他们会选择VAX，接下来的问题是他们的操作系统会选择VMS还是Unix”。他告诉Collinson:
 
+> 
