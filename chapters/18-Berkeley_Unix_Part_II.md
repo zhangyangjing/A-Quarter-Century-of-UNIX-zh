@@ -179,4 +179,6 @@ Shannon在DEC只待了一年多一点的时间，他后来去硅谷加入了Bill
 
 1980年夏天一个伯克利的研究生John Forderero写了一程序，这个程序可以检测到邮件的到达状态。它会告诉用户你有了一封新的邮件。在那时，Heidi Stettner在开始研究生学业之前在凯文斯教学楼工作。Heidi会带着她的狗去教师和办公室，这是一只非常友好的狗，有很多学生喜欢在走廊上把球扔出去让它去捡回来。甚至在公告板上也有它和毕业生们的照片:题目是正在工作的狗博士。John决定用这只狗的名字命名他的程序:Biff。根据Heidi所说，John和Bill Joy后来花了很多时间试着去试着解释**biff**这个名字的含义:Be notified if mail arrives。Bill在1993年8月去世，当时年龄是15岁，它在编译课上获得了一个B的成绩。Heidi说Biff咬了邮递员是一个下流的谣言。
 
+Kirk McKusick在1981年夏天加入了这个项目。Leffler从1981年秋天开始在伯克利，大概有6个月的时间Joy很少在东海岸，但是直到1983年4.2发售时，名义上他仍是这个小组的一员。在这段时间里，DARPA的伯克利合约监督人Duane Adams设立了一个“指导委员会”，成员有伯克利的Bob Fabry，Bill Joy，Sam Leffler，Bolt和Beranek以及Newman的Alan Nemeth，Bob Gurwitz，斯坦福的Keith Lantz，麻省理工的Bert Halsted，卡内基梅隆的Rick Rashid，信息科学协会的Dan Lynch，DARPA的Adams，Bob Baker，UCLA的Jerry Popek。从1984年开始，每半年召开一次的委员会会议被一系列的年度研讨会代替。
+
 
