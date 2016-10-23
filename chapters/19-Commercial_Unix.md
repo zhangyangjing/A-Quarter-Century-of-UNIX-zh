@@ -60,3 +60,5 @@
 
 > 1975年12月，我去见Baecker对他说“我能带来《The Globe && Mail》的合同”。有一个大问题是“这是运行在Three Rivers Graphic Wonder上的Unix系统，我们该怎么发布它?”。(Three Rivers Graphic Wonder现在仍然在多伦多大学Henry Spencer的计算机实验室中)
 
+HCR建立起来了，最初它是一个小规模的组。引用一下它最初的章程:
+
