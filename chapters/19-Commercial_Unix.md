@@ -68,3 +68,4 @@ HCR建立起来了，最初它是一个小规模的组。引用一下它最初�
 
 > Bill说他曾经给AT&T里扶着这方面事情的Al Arms打电话，Bill告诉他我们想要购买Unix，那时是1776年，在电话上什么都没有做成。Al Arms给出了2万美金的价格，因为他认为这是一个很高的价格，这样几句没人再因为这个打扰他了。
 
+当然，就像RAND公司的Peter Weiner曾经支付的，Tilbrook夸大了数额。虽然如此，HCR成为一个应盈利公司。Tilbrook继续为其他事情努力，Tilson陈威HCR的主席。HCR最后被Santa Cruz公司收购。
