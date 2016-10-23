@@ -27,7 +27,7 @@
     * [伯克利Unix 第一部分](chapters/16-Berkeley_Unix_Part_I.md)
     * [V7](chapters/17-Version_7.md)
     * [伯克利Unix 第二部分](chapters/18-Berkeley_Unix_Part_II.md)
-    * [商业Unix](商业unix.md)
+    * [商业Unix](chapters/19-Commercial_Unix.md)
     * DEC
     * 法律 第二部分
 * Unix产业
