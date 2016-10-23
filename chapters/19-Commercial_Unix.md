@@ -57,3 +57,6 @@
 > 因此我们是在一个动态图形项目，Tuori和我将要做一个排版工具包——那时什么东西都没有。没有质量产品。所以Martin和我通过在大学和中央图书馆的支持下拼凑了一个使用计算机排版的工作间。我们发出传单，然后收到了大约20个回应...这让我加入了Baecker做动画电影的组。我们三个人是国家研究理事会学者，所以Baecker有足够的资金，于是我们买了PDP-11/45。Reeves做了通用软件包，我继续搞动态图形的东西。就是在那时我提出了动态光标。虽然Reeves，Duff和我都是诵读困难者，有一个风格上的巨大变化。不管怎么说，我喜欢Xerox Sigma 7，并且我用它来写NEWSWHOLE。我每月登陆时间有300小时。
 
 > 《The Globe && Mail》的David Slocum来到工作间和我们讨论分页和排版的困难。计算机分页看起来对于这个杂志是一个很好的话题，因此我去《The Globe && Mail》兼职工作，我写了NEWSWHOLE。我带着这些建立了HCR。
+
+> 1975年12月，我去见Baecker对他说“我能带来《The Globe && Mail》的合同”。有一个大问题是“这是运行在Three Rivers Graphic Wonder上的Unix系统，我们该怎么发布它?”。(Three Rivers Graphic Wonder现在仍然在多伦多大学Henry Spencer的计算机实验室中)
+
