@@ -8,4 +8,6 @@
 
 第一个在商业上支持Unix的公司是1977年的Interactive System。第二年Heinz Lycklama和Interactive System的创始人Peter Weiner在圣塔莫尼卡合作。Lycklama刚刚写了LSX，这是一个针对LSI-11微处理器的Unix版本(LSI-11本质上是一台使用了PDP-11处理器，用于卡内基梅隆实验性的的松散耦合多处理器)。Interactive的产品叫做IS/1，可以在大多数的PDP-11上运行。直到几年之前，当它成为一个芯片公司，Interactive仍然是最著名的移植公司之一。有趣的是，之前Weiner还在RAND公司的时候，他是第一个获得商业Unix授权的人。
 
+第一个商业Unix“克隆”是克隆自Whitesmiths的Idris。Whitesmiths是之前贝尔研究员P.J. Plauger的作品。Plauger说Idris是一个艺术方面的巴比伦人上帝。Whitesmiths是一个软件公司，相比之下Idris可以称为“blacksmith”。Plauger毕业于普林斯顿大学(比Stu Feldman早了一年)，然后1969年又去密歇根州继续攻读了物理学博士学位。他告诉我:
 
+> 
