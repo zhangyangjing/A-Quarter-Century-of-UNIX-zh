@@ -66,4 +66,5 @@ HCR建立起来了，最初它是一个小规模的组。引用一下它最初�
 
 组的成员有Tilbrook，Baecker，Les Mezei，还有Tom Horsley。Mike Tilson在大概两年后加入了他们。HCR也销售软件产品，包括XENIX，微软的第7版衍生产品。但是想要做他们想做的事情，他们需要一个商业Unix授权。Tilbrook告诉我:
 
-> 
+> Bill说他曾经给AT&T里扶着这方面事情的Al Arms打电话，Bill告诉他我们想要购买Unix，那时是1776年，在电话上什么都没有做成。Al Arms给出了2万美金的价格，因为他认为这是一个很高的价格，这样几句没人再因为这个打扰他了。
+
