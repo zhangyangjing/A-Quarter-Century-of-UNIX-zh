@@ -181,4 +181,6 @@ Shannon在DEC只待了一年多一点的时间，他后来去硅谷加入了Bill
 
 Kirk McKusick在1981年夏天加入了这个项目。Leffler从1981年秋天开始在伯克利，大概有6个月的时间Joy很少在东海岸，但是直到1983年4.2发售时，名义上他仍是这个小组的一员。在这段时间里，DARPA的伯克利合约监督人Duane Adams设立了一个“指导委员会”，成员有伯克利的Bob Fabry，Bill Joy，Sam Leffler，Bolt和Beranek以及Newman的Alan Nemeth，Bob Gurwitz，斯坦福的Keith Lantz，麻省理工的Bert Halsted，卡内基梅隆的Rick Rashid，信息科学协会的Dan Lynch，DARPA的Adams，Bob Baker，UCLA的Jerry Popek。从1984年开始，每半年召开一次的委员会会议被一系列的年度研讨会代替。
 
+Gurwitz早期实现的一套TCP/IP协议让BBN非常不满意，于是找Joy来继续修改。1981Joy同时也在做一个进程间通信的项目。Leffler和他一起做一个多网路同时使用的协议。**rcp**，**rsh**，**rlogin**，**rwho**都是作为临时的工具简单的写出来的。他们包含在1982年4月发布的4.1a中。了1982年6月McKusick做出了新的高速文件系统并将它集成到4.1a中。这个系统成为了4.1b，在夏天和秋天用在了操作系统课程上。Mike Karels告诉我:
 
+> 
