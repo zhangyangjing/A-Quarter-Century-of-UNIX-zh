@@ -10,4 +10,6 @@
 
 第一个商业Unix“克隆”是克隆自Whitesmiths的Idris。Whitesmiths是之前贝尔研究员P.J. Plauger的作品。Plauger说Idris是一个艺术方面的巴比伦人上帝。Whitesmiths是一个软件公司，相比之下Idris可以称为“blacksmith”。Plauger毕业于普林斯顿大学(比Stu Feldman早了一年)，然后1969年又去密歇根州继续攻读了物理学博士学位。他告诉我:
 
+> 在那时研究并不是很有趣。所以当他们给我选择事，我选了霍姆德尔的一个小组，它的工作内容是将电话系统数字化。这是一场不朽的战斗，因为每一个结局方案都意味着通过电话线发送比现在更多的信息，这是远超过电话公司乐意支付的...我在贝尔公司的各个实验室做了几年的销售，其中他们将我借给莫里山。因为空间太狭小，我去了Brian Kernighan隔壁的办公室。在那个大厅里的人有Doug McIlroy和Dennis Ritchie以及Al Aho。Brian和我都非常喜爱喝咖啡，我们每天都会聊上几次。
+
 > 
