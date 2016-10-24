@@ -20,3 +20,6 @@
 
 > Spitbrook对Unix总是充满了敌意，坦白说是对整个公司...工程部门和管理部门尤为严重。Dave Cutler是DEC工程部门的中坚力量，他抓住了某些东西作为折中——我想是VMS上的SRI软件包。Cutler把Munson叫来，记得在AT&T和大学，Unix是DEC的一个大问题。因此Cutler被Munson叫来，Munson说他会让我们一些人过去看一看。所以Bill Shannon和我去了那里，大概有20分钟的路程。我们去了那里，Cutler正在他的办公室里。Bill和我坐在一个终端前，任何事情都不能做。Cutler问它有什么问题，我说它不能工作了。Cutler说“好的，谢谢你们”。我们回到梅里马克，Munson把我们叫到办公室(他是资深管理人员)，问我们“你们去那个地狱做了些什么？Cutler给我打电话对我念叨说对你们的工程师深表遗憾并且再也不想在Spitbrook见到你们”。
 
+> 我想Cutler的轻蔑影响了他此后的工作。在DEC内部的RISC战争中，Cutler在新的Prism架构上做了另一个操作系统而不是使用Unix。Cutler的系统不能移植，但是从文化上兼容VMS。我想NT中的许多东西可以追溯到Prism(Cutler在1983年去微软工作)。
+
+> 
