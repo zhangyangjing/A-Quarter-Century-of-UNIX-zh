@@ -28,7 +28,7 @@
     * [V7](chapters/17-Version_7.md)
     * [伯克利Unix 第二部分](chapters/18-Berkeley_Unix_Part_II.md)
     * [商业Unix](chapters/19-Commercial_Unix.md)
-    * DEC
+    * [DEC](chapters/20-DEC.md)
     * 法律 第二部分
 * Unix产业
     * \/usr\/group
