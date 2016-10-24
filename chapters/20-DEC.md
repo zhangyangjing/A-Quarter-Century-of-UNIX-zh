@@ -26,3 +26,5 @@
 
 1980年在旧金山的USENIX会议上，Bill Munson宣布UEG的目标是“启发DEC发现Unix和它的机会”。Armando有另外一种启发。
 
+> 1982年1月我在东海湾的圣莫妮卡参加USENIX会议，当Bill Munson冲出来的时候我们正要宣布DEC有一个Unix项目。Slsen在我们的后面。显然他带着我寄给他的Unix车牌，他把车牌挂到一些人的胸口然后对Munson说“去搞一个Unix产品，把它做好！”。所以Munson红着研究去东海岸发出上那个公告。
+
