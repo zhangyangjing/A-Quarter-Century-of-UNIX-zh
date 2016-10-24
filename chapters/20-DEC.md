@@ -4,3 +4,6 @@
 
 但是在1970年后期，有一个不断增长的认识是Unix没有离去，硬件工程师们也意识到乐于助人的Unix用户非常重要。Ritchie和Thompson曾经去DEC访问过几次。现在DEC设置了一个Unix支持组——“我们是同一类实验室”。Armando Stettner在1979年后期离开贝尔实验室去了DEC，他是Usenet的早期发起人，Ultrix的架构师(DEC版的4.2BSD)，同时也是Unix车牌的首位用户。他告诉我:
 
+> 我将拥护Unix的氛围带到了DEC，否则DEC就不会有在纳舒厄的Unix工程师组(UEG)。我们在新罕布希尔州的梅里马克工作。我们将Spibrook路称为“Saliva Creek”。又一次服务和支持部门的人们知道我们在那里，他们给我们打了电话。
+
+> 
