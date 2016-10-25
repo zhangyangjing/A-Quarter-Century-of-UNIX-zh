@@ -32,3 +32,5 @@ Bass对于USENIX协会的形成和之后/usr/group的创建的看法提供了一
 
 > 你知道在jus和JUNIET之间没有商业关系吗？每当我被外面人们问到，我都回答说没有任何关系。Jun Murai是jus的组织者，JUNET和它的WIDE互联网项目，但是他在jus的朋友跟着他做了JUNET。同一个人从jus去组织和开发JUNET。现在，JUNET不再存在。它被分割为商业和地区学术研究网络。
 
+Van der Poel补充说:
+
