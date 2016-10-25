@@ -30,3 +30,5 @@ Bass对于USENIX协会的形成和之后/usr/group的创建的看法提供了一
 
 > 当Jun Murai，Koichi Kishida，还有Nobuo Saito建立了Unix学习组，那时一个由学院和厂商参与的一个很小的组。但是，两年以前，一些厂商和软件公司建立了Unix商业协会(UBA)，UBA成了Unix的商业代表组。因为我是jus执行董事会的成员，我很关心UBA。在jus，商业组织没有真正的权利。但是当jus维护一个面向技术的社团时，UBA成长起来了。
 
+> 你知道在jus和JUNIET之间没有商业关系吗？每当我被外面人们问到，我都回答说没有任何关系。Jun Murai是jus的组织者，JUNET和它的WIDE互联网项目，但是他在jus的朋友跟着他做了JUNET。同一个人从jus去组织和开发JUNET。现在，JUNET不再存在。它被分割为商业和地区学术研究网络。
+
