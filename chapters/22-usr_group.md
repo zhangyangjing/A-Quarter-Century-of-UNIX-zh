@@ -28,4 +28,5 @@ Bass对于USENIX协会的形成和之后/usr/group的创建的看法提供了一
 
 “分隔”可能马上就来了。就像Toru Takahashi说的:
 
-> 
+> 当Jun Murai，Koichi Kishida，还有Nobuo Saito建立了Unix学习组，那时一个由学院和厂商参与的一个很小的组。但是，两年以前，一些厂商和软件公司建立了Unix商业协会(UBA)，UBA成了Unix的商业代表组。因为我是jus执行董事会的成员，我很关心UBA。在jus，商业组织没有真正的权利。但是当jus维护一个面向技术的社团时，UBA成长起来了。
+
