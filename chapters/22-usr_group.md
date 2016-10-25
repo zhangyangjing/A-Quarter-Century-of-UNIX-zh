@@ -1,1 +1,1 @@
-# \usr\group
+# /usr/group
