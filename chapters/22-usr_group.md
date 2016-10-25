@@ -38,3 +38,10 @@ Van der Poel补充说:
 
 > 这样我们有了:
 
+> |||
+|:--|:--|
+|JUNET|私有的UUCP，后来的IP(学术，公司和政府)|
+|WIDE|研究，实验 IP|
+|IIJ|商业IP(其他还有SPIN和IIKK)|
+
+
