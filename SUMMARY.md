@@ -29,7 +29,7 @@
     * [伯克利Unix 第二部分](chapters/18-Berkeley_Unix_Part_II.md)
     * [商业Unix](chapters/19-Commercial_Unix.md)
     * [DEC](chapters/20-DEC.md)
-    * 法律 第二部分
+    * [法律 第二部分](assets/21-The_Law_Part_II.md)
 * Unix产业
     * \/usr\/group
     * Sun和JAWS
