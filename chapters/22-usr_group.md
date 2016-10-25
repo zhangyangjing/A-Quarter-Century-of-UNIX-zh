@@ -44,4 +44,5 @@ Van der Poel补充说:
 |WIDE|研究，实验 IP|
 |IIJ|商业IP(其他还有SPIN和IIKK)|
 
+JUNET是由Jun Murai建立的，我不确定JUNET的官方说法是什么，但是很多人开玩笑说它的名字来自jun这个词，或者它的意思是日本大学网络或者日本Unix网络。
 
