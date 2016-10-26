@@ -36,4 +36,6 @@
 
 1982年Hewlett-Packard宣布了它新的9000系列32位工作站。这之前HP宣布将在基于摩多罗拉68000芯片的9826和9836桌面机上支持Unix，这个Unix系统很大程度上源于System III，但是包含了很多扩展，包括以兼容以太网和伯克利vi屏幕编辑器。
 
+1983年1月在UNICOM(软件工具，USENIX和/usr/group联合举办)会议上，Tom Lyon和Bill Shannon(现在都在Sun)谈论了移植4.2BSD到Sun。它不是真正的4.2，只是4.1c，但是它是BSD并且运行在68000上。在同一场会议上，Eric Shienbrood和他的同时谈论了Apollo计算机上的Unix——这是AUX，一个Unix System III的模拟器。那年的后期，IBM宣布在它的PC上已经可以使用Unix，这是基于16位Intel 8088芯片的机器(移植工作是Interactive做的)。
+
 
