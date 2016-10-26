@@ -10,4 +10,6 @@
 
 > 有意思的是Carl的一个朋友拥有一个计算机商场，他不断告诉Carl说Unix没有市场，ONYX应该把精力放在CPM/MPM Z80系统上(C8002的I/O控制器和资金引导机器)。1980年夏天，Carl解散了ONYX团队(所有的Unix员工)，重新关注CPM/MPM的公司...一年以后IBM发布了使用PCDOS/MSDOS的个人计算机，六个月内CPM的市场就死掉了。Carl和他的ONYX不得不重新搭建Unix团队，重新将精力放在Unix上来挽救公司...但是已经太迟了。
 
-> 
+就在那个时候，Xerox开发了Alto，这是一个“个人工作站”。它和我们今天所想象的工作站很像，尤其是它有一个位图显示器和一个鼠标。相比而言它也很贵(它从来没有销售，但是估价是在3万美金)，但是当摩托罗拉68000处理器出现的时候，Andreas Bechtolsheim和其他斯坦福的学生就可以很廉价的仿制它。斯坦福授权了一个单板的叫做斯坦福大学网络板，SUN。一些公司得到了它的授权:Codata，Fortune，Dual，Cyb，Lucasfile。另一台工作站——JAWs开始出现，售价不到1万美元，运行4.1BSD或者System 3。大多数公司都在创业的路上。Sun幸运的雇佣了板子原型的设计者Bechtolsheim和4.1BSD的首席设计师Bill Joy。1976年Palo Alto的Boggs和Metcalfe在Xeox项目中发明了以太网，他们在7月的CACM发表了论文。Xerox在1980年10月公布了详细说明书。桌面计算机和网络的概念开始在Palo Alto发芽成长。
+
+
