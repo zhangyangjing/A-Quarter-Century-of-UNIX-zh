@@ -32,7 +32,7 @@
     * [法律 第二部分](chapters/21-The_Law_Part_II.md)
 * Unix产业
     * [\/usr\/group](chapters/22-usr_group.md)
-    * Sun和JAWS
+    * [Sun和JAWS](chapters/23-Sun_and_JAWS.md)
     * 斯坦福
 * 现状
     * Unix间的竞争
