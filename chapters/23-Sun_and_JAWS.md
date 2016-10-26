@@ -38,4 +38,4 @@
 
 1983年1月在UNICOM(软件工具，USENIX和/usr/group联合举办)会议上，Tom Lyon和Bill Shannon(现在都在Sun)谈论了移植4.2BSD到Sun。它不是真正的4.2，只是4.1c，但是它是BSD并且运行在68000上。在同一场会议上，Eric Shienbrood和他的同时谈论了Apollo计算机上的Unix——这是AUX，一个Unix System III的模拟器。那年的后期，IBM宣布在它的PC上已经可以使用Unix，这是基于16位Intel 8088芯片的机器(移植工作是Interactive做的)。
 
-
+但是最重要的事情是伴随着Unix操作系统诞生的高速工作站。这直接导致了网络的诞生，如果没有运行Unix的工作站就不会有它的出现。Apollo的领域软件在很多方面要强于互联网协议和Sun的NFS软件。但因为它不是开发的，所以失去了市场。Unix是一个功能性系统，不仅是在大学校园里，更是在科研和设计实验室以及工业领域里。
