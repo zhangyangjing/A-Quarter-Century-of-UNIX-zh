@@ -35,7 +35,7 @@
     * [Sun和JAWS](chapters/23-Sun_and_JAWS.md)
     * [标准](chapters/24-Standards.md)
 * 现状
-    * Unix间的竞争
+    * [Unix间的竞争](chapters/25-Dulling_Unixes.md)
     * 衍生版本
     * OSF和UI
     * VAX后的伯克利Unix
