@@ -33,7 +33,7 @@
 * Unix产业
     * [\/usr\/group](chapters/22-usr_group.md)
     * [Sun和JAWS](chapters/23-Sun_and_JAWS.md)
-    * 斯坦福
+    * [标准](chapters/24-Standards.md)
 * 现状
     * Unix间的竞争
     * 衍生版本
