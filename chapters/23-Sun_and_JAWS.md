@@ -24,4 +24,6 @@
 
 这篇文章的签名是“Prof. Bob Fabry”。
 
+1982年7月6日周二在波士顿的USENIX会议上，Joy发表了关于关于4.2BSD和进程间通讯的演讲。Leffler和McKusick也对4.2的其他方面发表了演讲。第二天，Andy Bechtolsheim谈论了“SUN工作站”。
+
 
