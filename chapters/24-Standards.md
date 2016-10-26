@@ -18,4 +18,6 @@
 
 Unix会议的20周年纪念会议上，Ritchie评论C语言标准和POSIX:
 
+> 我们为Unix标准化做了相当小的贡献。最大的合作是为POSIX shell做一些改良。
+
 > 
