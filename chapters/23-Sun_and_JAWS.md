@@ -32,6 +32,8 @@
 
 > 现在的工作站运行的是UniSoft的第7版Unix，它包含了一些伯克利的增强功能。当4.2完成以后它会升级到4.2BSD，这将允许工作站直接在网络上运行而不需要本地磁盘...
 
-在这场会议上，MIT的Jack Test讨论了“NUnix窗口系统”，来自BBN的Rich Fortier和Tony Lake谈论了BBN的智能位图终端BitGraph，贝尔实验室的Rob Pike谈论了“合并Unix和位图”。
+在这场会议上，MIT的Jack Test讨论了“NUnix窗口系统”，来自BBN的Rich Fortier和Tony Lake谈论了BBN的智能位图终端BitGraph，贝尔实验室的Rob Pike谈论了“合并Unix与位图”。
+
+1982年Hewlett-Packard宣布了它新的9000系列32位工作站。这之前HP宣布将在基于摩多罗拉68000芯片的9826和9836桌面机上支持Unix，这个Unix系统很大程度上源于System III，但是包含了很多扩展，包括以兼容以太网和伯克利vi屏幕编辑器。
 
 
