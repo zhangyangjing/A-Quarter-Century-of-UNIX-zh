@@ -36,7 +36,7 @@
     * [标准](chapters/24-Standards.md)
 * 现状
     * [Unix间的竞争](chapters/25-Dulling_Unixes.md)
-    * 衍生版本
+    * [衍生版本](chapters/26-Offspring_Systems.md)
     * OSF和UI
     * VAX后的伯克利Unix
     * 法律 第三部分
