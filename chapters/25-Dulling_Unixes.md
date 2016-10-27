@@ -4,3 +4,6 @@
 
 正如Andy Tannenbaum指出的，“贝尔实验室有一个Unix支持小组，但是你从没听说过Unix开发小组。这是因为贝尔公司没有权限开发计算机操作系统...”。1981年Jeff Schriebman创建的UniSoft推出了一个名为UniPlus+的移植版本，它与System III和现在的System V保持兼容。1983年伯克利的一个小组成立了mt Xinu来支持和商业化BSD，其中的成员有Bob Kridle，Alan Tobey，Ed Gould，还有Vance Vaughan。Debbie Scherrer不久后也加入了他们。他们先是销售了更多的4.2BSD，然后是4.3BSD(mt Xinu擅长于客户服务:1986年Debbie自己安装了我的4.3纸带)。
 
+5年的时间中，Apollo，DEC，Eakins，Gould，Integrated Solutions，Masscomp，mt Xinu，NSC，和Wollongong是众多Unix销售公司中的一部分。这些销售AT&T System III或者System V衍生版本的公司有:AT&T，Altos，Apollo，Compaq，Convergent，HP，Honeywell，IBM，ITT，Intel，Interactive，Masscomp，Microport，Microsoft，Motorola，NCR，NUXI，Opus，SCO，Silicon Graphics，Sperry，Sun，Tandy，UniSoft，Wollongong。此外，Amdahl，Apollo，Apple，Cray，DEC，Data General，HP，IBM，Inter，Motorola，Unisys和许多其他的公司提供私有的Unix版本，其中一部分是基于4.2BSD的。
+
+
