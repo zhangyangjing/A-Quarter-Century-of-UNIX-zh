@@ -20,4 +20,4 @@ Armando Stettner给我的答案是Unix从来没有进入“微软的市场”，
 
 我不知道微软投资XENIX是不是想要阻止Unix在市场上的成功，但是它显然有这样的效果。
 
-
+关于Unix为什么变得臃肿了，我觉得这很简单。如果我们想象Ken和Dennis，Bill Joy和Kirk以及Sam Leffler，Mike Karels去做“品位裁决”，就不会有现在这么多的Unix厂商。当System V采用了大量的伯克利增强修改，将它们整合进系统，AT&T的Unix系统实验室(1993年被Novell收购)仅仅将将代码收录在一起。这是一种满足用户所有要求的态度。想要一个编辑环境？这有Bill Joy的vi和Richard Stallman的emacs。想要一个窗口系统？这有X Window系统和Motif以及OpenLook两种用户接口。想要一个命令行？这有sh，csh，还有ksh。在那时，USG被告知为了证明开放性，要讲大量BSD的特性添加到System V中去。我不能确认这一点。这些特性每一个都增加了空间占用，分配了更多的内存。每一个特性都是几千上万行的代码。一个苗条的系统应该有更少的选择和更少的实用工具。
