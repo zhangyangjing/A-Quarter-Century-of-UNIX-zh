@@ -6,4 +6,6 @@
 
 5年的时间中，Apollo，DEC，Eakins，Gould，Integrated Solutions，Masscomp，mt Xinu，NSC，和Wollongong是众多Unix销售公司中的一部分。这些销售AT&T System III或者System V衍生版本的公司有:AT&T，Altos，Apollo，Compaq，Convergent，HP，Honeywell，IBM，ITT，Intel，Interactive，Masscomp，Microport，Microsoft，Motorola，NCR，NUXI，Opus，SCO，Silicon Graphics，Sperry，Sun，Tandy，UniSoft，Wollongong。此外，Amdahl，Apollo，Apple，Cray，DEC，Data General，HP，IBM，Inter，Motorola，Unisys和许多其他的公司提供私有的Unix版本，其中一部分是基于4.2BSD的。
 
+所有的这些版本，不管是AT&T还是BSD的衍生版本，都需要AT&T的授权。最近几个Unix的版本可以不需要这种授权。虽然没有一个商业产品是真正强健的，但BSDI，386/BSD，还有NetBSD都已经可以在任何386/486机器上运行。这些“自由授权”版本都衍生自自由的CSRG发行版，当我写这些的时候它仍然在诉讼中。详细信息可以参见29章。Linus Torvalds写的Linux也运行在386/486机器上，不过没有使用CSRG的代码。这四个系统都使用了大量自由软件基金会的软件。Ritchard M. Stallman创建了自由软件基金会，并为他几近完成的GNU系统写了那些软件。GNU软件包括大多数Unix软件可以自由分发的重制版本(它们在GNU项目中一个叫做‘copyleft’的授权下发行，这意味着原始和改进后的版本必须可以让其他人自由修改和分发源码。如果发布了二进制版本，源码也必须一起发布出来)。**gcc**是GNU的C语言编译器，可能是Steve Johnson的pcc最好的继任者。
+
 
