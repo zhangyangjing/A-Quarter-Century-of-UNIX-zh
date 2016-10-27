@@ -3,3 +3,7 @@
 就像早期的Unix版本衍生出了MERT，PWB，LSX和Idris，V7和4.xBSdD是一大票系统的先辈。字母表上可以从Amoeba到V，地理上可以从西方的耶路撒冷到东方的台湾，这里可以列出来的实在太多了。不管怎么说，在过去十年间开发出了各种类型的版本，在这一章我将选出其中5个来介绍:MOSIC(Israel)，Chorus(France)，Amoeba(Netherlands)，Mach和Plan 9(US)。
 
 MOSIX(Unix的多计算机操作系统)是一个可以将多个计算机连接成为一个虚拟单机Unix环境的系统。1981年Amnon Barak在耶路撒冷的希伯来大学开发了MOSIX。最初它的名字是MOS，被设计成基于第7版Unix连接多台PDP-11/23s。83年到84年期间开发出来并在M68000处理器上运行。到了1993年一共有连续4个版本发布，包括一个32V版本(1987年，叫做NSMOS，因为它在基于National Semiconductor NS32332的计算机上运行)，一个VAX版本(1988年夏天基于SVR2)，还有一个VME523版本——这个最流行的版本运行在多处理器工作站集群上。最初引入MOSIX的特点就是通过动态迁移实现的负载均衡，或者也可以称之为缩放算法。
+
+1979年Chorus最初是Hubert Zimmerman在INRIA开始做的一个研究程序。直到1986年，一个很大的团队为发行版系统开发了3个面向通讯的内核，这些早期版本都有一个自定义的接口。1986年的Chorus-V2兼容于Unix System V。大约在这个时候这个项目被作为一个商业公司剥离出来:Chorus System公司。
+
+
