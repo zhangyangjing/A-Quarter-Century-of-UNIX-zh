@@ -16,3 +16,6 @@ Vittorio Cassoni是AT&T分管数据系统的资深总监。作为一个良好活
 
 Apollo，DEC(在Stettner对Ken Olsen的催促下)，HP，Bull(法国)，Nixdorf，以及Siemens(德国)举行了一次半半开放的会议，并且在1988年宣布了开放软件基金会(OSF)的成立。这个基金会致力于操作系系统的开发，用户接口，发行版环境，和自由分享。最后，这个Unix分支会成为免AT&T授权。1988年5月18日的《Wall Street Journal》上记录着出席OSF午餐的人们没人记得Ken Olsen的分享“一个IBM领导的舞台”。
 
+那时的Thompson正在澳大利亚。当Ritchie告诉他发生的事情时，他说“只要想一想，IBM和DEC在一个房间里，这是我们做的!”。
+
+
