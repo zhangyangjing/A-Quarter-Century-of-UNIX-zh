@@ -20,4 +20,6 @@ Apollo，DEC(在Stettner对Ken Olsen的催促下)，HP，Bull(法国)，Nixdorf�
 
 没过多久，AT&T就和Sun以及他们的合作伙伴建立了一个反对者联盟:Unix国际(UI)，致力于销售SVR4。
 
+1989年末OSF推出了一个用户接口Motif，被广泛接受。OSF也将Phillips和Hitachi加入他们的赞助商。总之，HP收购了Apollo，Siemens收购了Nixdorf。OSF和UI都努力增加会员数量，大量赠送铅笔，徽章和贴纸。最终他们都有大概200个成员。
+
 
