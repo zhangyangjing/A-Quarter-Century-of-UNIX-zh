@@ -8,4 +8,4 @@
 
 直接的后果是1988年1月7日在DEC位于加利福尼亚州帕洛阿尔托的西部办公室举办的会议。参会者来自Apollo，DEC，Gould Electronics，Hewlett-Packard，Honeywell-Bull，InfoCorp，MIPS，NCR，Silicon Graphics，UniSoft，以及Unisys。因为DEC的办公室是在汉密尔顿林荫道，出席的人被称为汉密尔顿小组。他们在1月15日发给ATT&T CEO James E. Olson的一封电报:
 
-
+> 作为AT&T软件的授权方和开放Unix标准的支持者，我们很关心近期AT&T和Sun发布的公告。这份公告让我们的公司和顾客对Unix作为一个开放标准的未来产生忧虑。我们感觉在即将到来的“uniform”会议之前很有必要针对这个问题得到更好的理解，我们请求我们公司负责Unix战略的管理者和Cassoni先生在1988年1月25日举办一次会议...
