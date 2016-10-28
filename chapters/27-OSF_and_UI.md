@@ -6,4 +6,6 @@
 
 > Sun是每个人的强大竞争对手。我们看到Sun的系统可以直接替换VAX，就想:这次结盟联合了我们最大最有创新力的竞争对手和系统软件的鼻祖，市场平衡被改变了。
 
+直接的后果是1988年1月7日在DEC位于加利福尼亚州帕洛阿尔托的西部办公室举办的会议。参会者来自Apollo，DEC，Gould Electronics，Hewlett-Packard，Honeywell-Bull，InfoCorp，MIPS，NCR，Silicon Graphics，UniSoft，以及Unisys。因为DEC的办公室是在汉密尔顿林荫道，出席的人被称为汉密尔顿小组。他们在1月15日发给ATT&T CEO James E. Olson的一封电报:
+
 
