@@ -18,4 +18,6 @@ Apollo，DEC(在Stettner对Ken Olsen的催促下)，HP，Bull(法国)，Nixdorf�
 
 那时的Thompson正在澳大利亚。当Ritchie告诉他发生的事情时，他说“只要想一想，IBM和DEC在一个房间里，这是我们做的!”。
 
+没过多久，AT&T就和Sun以及他们的合作伙伴建立了一个反对者联盟:Unix国际(UI)，致力于销售SVR4。
+
 
