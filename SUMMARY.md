@@ -38,7 +38,7 @@
     * [Unix间的竞争](chapters/25-Dulling_Unixes.md)
     * [衍生版本](chapters/26-Offspring_Systems.md)
     * [OSF和UI](chapters/27-OSF_and_UI.md)
-    * VAX后的伯克利Unix
+    * [VAX后的伯克利Unix](chapters/28-Berkeley_Unix_After_the_VAX.md)
     * 法律 第三部分
 * 末章
     * 结尾：它为什么成功？
