@@ -22,4 +22,4 @@ Apollo，DEC(在Stettner对Ken Olsen的催促下)，HP，Bull(法国)，Nixdorf�
 
 1989年末OSF推出了一个用户接口Motif，被广泛接受。OSF也将Phillips和Hitachi加入他们的赞助商。总之，HP收购了Apollo，Siemens收购了Nixdorf。OSF和UI都努力增加会员数量，大量赠送铅笔，徽章和贴纸。最终他们都有大概200个成员。
 
-
+91年和92年因为经济恶化，Bull，DEC，IBM和Siemens的计算机部门都在亏损。并且随着AT&T出售它所持有的Sun股份，这场斗争看起来视乎结束了。早在1989年11月就有人谈论为了Unix的未来OSF和UI应该合并。1992年末时这看起来已经无关紧要:已经没人再谈论OSF的免AT&T授权操作系统，Sun采用了Motif。到1993年末时，UI退出了商业，OSF取消了它之前宣布的几个产品——压缩软件和分布式管理环境。Bull和Siemens(资金原因)以及Phillips(因为出售了计算机业务)终止了对OSF的赞助。Armando Stettner评论说:“不清楚OSF还会有什么作用”。
