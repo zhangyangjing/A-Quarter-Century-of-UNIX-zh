@@ -14,4 +14,5 @@ Vittorio Cassoni是AT&T分管数据系统的资深总监。作为一个良好活
 
 1月27日晚上HP的Larry Lytle在肯尼迪万豪酒店召开了一个预备会议。这次和Cassoni的会议发生在1月28日。2月9日在达拉斯还有一个汉密尔顿小组的跟进会议。和Cassoni的会议没有得出小组关心的明确结果。到了3月，小组决定邀请IBM加入。
 
+Apollo，DEC(在Stettner对Ken Olsen的催促下)，HP，Bull(法国)，Nixdorf，以及Siemens(德国)举行了一次半半开放的会议，并且在1988年宣布了开放软件基金会(OSF)的成立。这个基金会致力于操作系系统的开发，用户接口，发行版环境，和自由分享。最后，这个Unix分支会成为免AT&T授权。1988年5月18日的《Wall Street Journal》上记录着出席OSF午餐的人们没人记得Ken Olsen的分享“一个IBM领导的舞台”。
 
