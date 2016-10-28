@@ -12,4 +12,6 @@
 
 Vittorio Cassoni是AT&T分管数据系统的资深总监。作为一个良好活动的结果，在电报上签名的代表分别来自Apollo，Data General，DEC，Gould，HP，Intergraph，Integrated Solutions，MIPS，Motorola，NCR，Prime，SGI，Tandem，UniSoft，以及Wyse。
 
+1月27日晚上HP的Larry Lytle在肯尼迪万豪酒店召开了一个预备会议。这次和Cassoni的会议发生在1月28日。2月9日在达拉斯还有一个汉密尔顿小组的跟进会议。和Cassoni的会议没有得出小组关心的明确结果。到了3月，小组决定邀请IBM加入。
+
 
