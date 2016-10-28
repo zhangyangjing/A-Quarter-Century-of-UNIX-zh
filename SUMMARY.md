@@ -37,7 +37,7 @@
 * 现状
     * [Unix间的竞争](chapters/25-Dulling_Unixes.md)
     * [衍生版本](chapters/26-Offspring_Systems.md)
-    * OSF和UI
+    * [OSF和UI](chapters/27-OSF_and_UI.md)
     * VAX后的伯克利Unix
     * 法律 第三部分
 * 末章
