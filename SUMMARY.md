@@ -41,7 +41,7 @@
     * [VAX后的伯克利Unix](chapters/28-Berkeley_Unix_After_the_VAX.md)
     * [法律 第三部分](chapters/29-The_Law_Part_III.md)
 * 末章
-    * 结尾：它为什么成功？
+    * [它为什么成功](chapters/30-What_Made_It_work.md)
     * 扩展阅读
     * 名词列表
 * [附图](mix/3-Attached_Photos.md)
