@@ -6,4 +6,6 @@
 
 那是1978年。十年以后，程序员和专业用户仍然感觉授权使得他们和最喜爱的操作系统变得疏远:源码授权的收费已经增长到了10万美金。1993年到了20万。这远远超出了个人和小公司的承受能力。
 
+John Gilmore和其他几个人催促CSRG创建他们的免授权版本。很明显AT&T反对其他的派生版本:Linux，MINIX等等。1988年秋天，在BSD的工作场地，Keith，Mike Karels和Kirk McKusick宣布已经完成了BSD Networking Release 1。它在11月上市。
+
 
