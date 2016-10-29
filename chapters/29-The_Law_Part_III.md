@@ -8,4 +8,6 @@
 
 John Gilmore和其他几个人催促CSRG创建他们的免授权版本。很明显AT&T反对其他的派生版本:Linux，MINIX等等。1988年秋天，在BSD的工作场地，Keith，Mike Karels和Kirk McKusick宣布已经完成了BSD Networking Release 1。它在11月上市。
 
+NET1在那时是伯克利系统的一个子集，和4.3 Tahoe非常相似。它的内核网络部分，C语言库和使用工具都提供源码和文档。它不需要任何授权(AT&T或者伯克利)就可以使用，也可以通过匿名FTP在网络上重新发布。源码中包含了一份伯克利版权声明和说明，允许所有者重新发布。
+
 
