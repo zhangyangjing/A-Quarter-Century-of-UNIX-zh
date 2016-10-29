@@ -42,4 +42,4 @@ Unix影响了90年代计算机的每一个方面。甚至Kernighan声称“PC市
 
 > 如果我们对创新保持足够的宽容，对通讯有着足够的自由，对成功有着足够的耐心，我们就有可能让未来的Ken Thompson发现一台CRAY/1计算机并且创作一个系统，继而产生影响，就像Unix。
 
-
+Thompson和Ritchie想去创建一些自己喜欢使用的东西，他们成功了，其他人也想要分享这些令人愉悦的东西。Sunil Was写道“没有Ken Thompson的愿景，Unix就不会成为现实。没有Dennis的眼光，它就不会成为一个优美的存在。没有Michael Lesk的想象以及Brian Kernighan的推广，它就不会取得如此多人的广泛钟爱”。这份钟爱激发了伦敦的Coulouris，细腻的Lion，伯克利的Joy以及本书中提到的无数其他人。
