@@ -4,4 +4,6 @@
 
 可能这其中最重要是在贝尔实验室盛行的态度。Dennis Ritchie在第1章里关于乐趣和实用的言论是这种态度的典型代表。Brian Redman向我评论他在惠帕尼所做的工作“充满了乐趣”。Plauger评论说“太奇妙了，如果你很有乐趣并且热爱你所做的东西，这就是AT&T和商业有关的东西”。Brian Kernighan说当他被雇佣时他问Doug Mcllroy他该去做什么，他得到的答案是做任何你想做的事情。所以人们得到了eqn，ratfor，pic这类软件工具。
 
+Kernighan告诉Peter Collinson关于awk:
 
+> 
