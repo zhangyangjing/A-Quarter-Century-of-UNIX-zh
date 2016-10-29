@@ -34,4 +34,5 @@ Brian Kernighan说:
 
 Unix影响了90年代计算机的每一个方面。甚至Kernighan声称“PC市场”带有Unix的印记。另外，微软的Windows NT很明显是一个类似Unix的系统，而且他们的产品宣称是“遵从POSIX”(虽然我不清楚比尔盖茨如何理解这一点)。
 
+1984年Dennis Ritchie退出后曾被问到，贝尔实验室导致Unix出现的氛围是否可以重现。他的答案出现在1984年的CACM，几乎正好是发表《Unix分时系统》之后的第10年。在文章里Ritchie写道:
 
