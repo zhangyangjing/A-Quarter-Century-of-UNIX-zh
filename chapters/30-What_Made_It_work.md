@@ -10,4 +10,7 @@ Kernighan告诉Peter Collinson关于awk:
 
 人员太多了？如果你注意看新闻，你回发现微软有超过600位程序员在开发Windows NT。但在霍姆德尔有3个人正在创建32V(London，Reiser，和Swanson)。3个人在写HoneyDanBer，Hall，Sventek以及Scherrer写VOS，Lorinda Cherry和Bob Morris写bc和dc。伯克利的CSRG偶尔会有不少的全职人员:Haley和Joy。Haley，Joy和Kridle。Kridle和Leffler。McKusick的业余时间和他得到博士学位前的夏天。McKusick，Jolitz以及Karels。McKusick，Karels以及Bostic。Larry Wall自己写了一些补丁per，rn。看看这些离职的人们:Ken Thompson，George Coulouris，几个澳大利亚人，Jan Simon Pendy。再看看其他的贡献者:Mike Muuss，Doug Kingston，Jim Curry，Rick Adams，James Cosling，Rob Pike，Armando Stettner，Bill Shannon等等。
 
+Steve Johnson告诉我:
+
+> 如果你在大学里，我会认为你要么是个做软件的，哟啊么就是一个做理论的。将会有大把的金钱支付我的薪水。如果我是一个软件工程师，并且和理论家交谈，付我薪水的人将会认为收到了欺骗。相反的，如果我是一个理论家，并且试着去做一些有用的事情...我总是可以成为一个通才。我总是在不同的训导间操作，我发现了大量多产的地方。因此我将写一个程序，这将会发现一些我可以验证的命题将原理放回到程序中。这发生在我完成yacc和pcc以及其他一些东西之后。它只是不能很好的适应一个结构划分。
 
