@@ -1,9 +1,9 @@
 # Summary
 
 * [封面](README.md)
-* [前言](mix/0-Preface.md)
-* [感谢](mix/1-Acknowledgements.md)
-* [简介](mix/2-Introduction.md)
+* [前言](mix/Preface.md)
+* [感谢](mix/Acknowledgements.md)
+* [简介](mix/Introduction.md)
 * 起源
     * [太空序曲](chapters/0-Prelude_to_Space.md)
     * [1969年夏天到1970年秋天](chapters/1-Summer_1969-Fall_1970.md)
@@ -41,7 +41,5 @@
     * [VAX后的伯克利Unix](chapters/28-Berkeley_Unix_After_the_VAX.md)
     * [法律 第三部分](chapters/29-The_Law_Part_III.md)
 * 末章
-    * [它为什么成功](chapters/30-What_Made_It_work.md)
-    * 扩展阅读
-    * 名词列表
-* [附图](mix/3-Attached_Photos.md)
+    * [它为什么成功](chapters/What_Made_It_work.md)
+    * [附图](mix/Attached_Photos.md)
